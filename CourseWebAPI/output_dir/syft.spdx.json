@@ -1,0 +1,4308 @@
+{
+ "spdxVersion": "SPDX-2.3",
+ "dataLicense": "CC0-1.0",
+ "SPDXID": "SPDXRef-DOCUMENT",
+ "name": ".",
+ "documentNamespace": "https://anchore.com/syft/dir/faa0e41c-c0a1-49b1-bd3e-d5fa7170ab11",
+ "creationInfo": {
+  "licenseListVersion": "3.27",
+  "creators": [
+   "Organization: Anchore, Inc",
+   "Tool: syft-1.40.1"
+  ],
+  "created": "2026-01-18T20:00:21Z"
+ },
+ "packages": [
+  {
+   "name": "Azure.Core",
+   "SPDXID": "SPDXRef-Package-dotnet-Azure.Core-990bd4b326bb9320",
+   "versionInfo": "1.35.0",
+   "supplier": "NOASSERTION",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\CourseWebAPI.deps.json",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:azure_core:azure_core_.net:1.35.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:azure_core:azure_core:1.35.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Azure.Core@1.35.0"
+    }
+   ]
+  },
+  {
+   "name": "Azure.Identity",
+   "SPDXID": "SPDXRef-Package-dotnet-Azure.Identity-5f8619868e3fe167",
+   "versionInfo": "1.10.3",
+   "supplier": "NOASSERTION",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\CourseWebAPI.deps.json",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:azure_identity:azure_identity_.net:1.10.3:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:azure_identity:azure_identity:1.10.3:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Azure.Identity@1.10.3"
+    }
+   ]
+  },
+  {
+   "name": "CourseCore",
+   "SPDXID": "SPDXRef-Package-dotnet-CourseCore-ed110d1c511bf0a0",
+   "versionInfo": "1.0.0.0",
+   "supplier": "Organization: CourseCore",
+   "originator": "Organization: CourseCore",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\CourseCore.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:coursecore:coursecore_.net:1.0.0.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:coursecore:coursecore:1.0.0.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/CourseCore@1.0.0.0"
+    }
+   ]
+  },
+  {
+   "name": "CourseDataAccess",
+   "SPDXID": "SPDXRef-Package-dotnet-CourseDataAccess-9aa998a770390d51",
+   "versionInfo": "1.0.0.0",
+   "supplier": "Organization: CourseDataAccess",
+   "originator": "Organization: CourseDataAccess",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\CourseDataAccess.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:coursedataaccess:coursedataaccess_.net:1.0.0.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:coursedataaccess:coursedataaccess:1.0.0.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/CourseDataAccess@1.0.0.0"
+    }
+   ]
+  },
+  {
+   "name": "CourseWebAPI",
+   "SPDXID": "SPDXRef-Package-binary-CourseWebAPI-59db2a3f278dd248",
+   "versionInfo": "1.0.0",
+   "supplier": "Organization: CourseWebAPI",
+   "originator": "Organization: CourseWebAPI",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from the following paths: \\obj\\Debug\\net8.0\\apphost.exe",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:CourseWebAPI:CourseWebAPI:1.0.0:*:*:*:*:*:*:*"
+    }
+   ]
+  },
+  {
+   "name": "CourseWebAPI",
+   "SPDXID": "SPDXRef-Package-dotnet-CourseWebAPI-5a5ce6e3cddf11ea",
+   "versionInfo": "1.0.0",
+   "supplier": "NOASSERTION",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\CourseWebAPI.deps.json",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:coursewebapi:coursewebapi_.net:1.0.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:coursewebapi:coursewebapi:1.0.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/CourseWebAPI@1.0.0"
+    }
+   ]
+  },
+  {
+   "name": "CourseWebAPI",
+   "SPDXID": "SPDXRef-Package-dotnet-CourseWebAPI-c4c50301eb5ab8cb",
+   "versionInfo": "1.0.0.0",
+   "supplier": "Organization: CourseWebAPI",
+   "originator": "Organization: CourseWebAPI",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\CourseWebAPI.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:coursewebapi:coursewebapi_.net:1.0.0.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:coursewebapi:coursewebapi:1.0.0.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/CourseWebAPI@1.0.0.0"
+    }
+   ]
+  },
+  {
+   "name": "CourseWebAPI",
+   "SPDXID": "SPDXRef-Package-dotnet-CourseWebAPI-f0ddf7a025a1d062",
+   "versionInfo": "1.0.0.0",
+   "supplier": "Organization: CourseWebAPI",
+   "originator": "Organization: CourseWebAPI",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\obj\\Debug\\net8.0\\CourseWebAPI.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:coursewebapi:coursewebapi_.net:1.0.0.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:coursewebapi:coursewebapi:1.0.0.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/CourseWebAPI@1.0.0.0"
+    }
+   ]
+  },
+  {
+   "name": "CourseWebAPI",
+   "SPDXID": "SPDXRef-Package-dotnet-CourseWebAPI-34c712d198f4a089",
+   "versionInfo": "1.0.0.0",
+   "supplier": "Organization: CourseWebAPI",
+   "originator": "Organization: CourseWebAPI",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\obj\\Debug\\net8.0\\ref\\CourseWebAPI.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:coursewebapi:coursewebapi_.net:1.0.0.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:coursewebapi:coursewebapi:1.0.0.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/CourseWebAPI@1.0.0.0"
+    }
+   ]
+  },
+  {
+   "name": "CourseWebAPI",
+   "SPDXID": "SPDXRef-Package-dotnet-CourseWebAPI-f04fec9cc7ffb53d",
+   "versionInfo": "1.0.0.0",
+   "supplier": "Organization: CourseWebAPI",
+   "originator": "Organization: CourseWebAPI",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\obj\\Debug\\net8.0\\refint\\CourseWebAPI.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:coursewebapi:coursewebapi_.net:1.0.0.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:coursewebapi:coursewebapi:1.0.0.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/CourseWebAPI@1.0.0.0"
+    }
+   ]
+  },
+  {
+   "name": "Json.NET",
+   "SPDXID": "SPDXRef-Package-dotnet-Json.NET-9869806433ca9f08",
+   "versionInfo": "13.0.3.27908",
+   "supplier": "Organization: Newtonsoft",
+   "originator": "Organization: Newtonsoft",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\Newtonsoft.Json.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:newtonsoft:json_net_.net:13.0.3.27908:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:newtonsoft:json_net:13.0.3.27908:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Json.NET@13.0.3.27908"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft Azure Client Pipeline",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft-Azure-Client-Pipeline-cfe6830bf3d5e4f4",
+   "versionInfo": "1.3500.23.45706",
+   "supplier": "Organization: Microsoft Corporation",
+   "originator": "Organization: Microsoft Corporation",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\Azure.Core.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation:azure__net_sdk_.net:1.3500.23.45706:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation:azure__net_sdk:1.3500.23.45706:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft%20Azure%20Client%20Pipeline@1.3500.23.45706"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft Azure.Identity Component",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft-Azure.Identity-Component-2ec04dd74c1bbf1f",
+   "versionInfo": "1.1000.323.51804",
+   "supplier": "Organization: Microsoft Corporation",
+   "originator": "Organization: Microsoft Corporation",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\Azure.Identity.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation:azure__net_sdk_.net:1.1000.323.51804:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation:azure__net_sdk:1.1000.323.51804:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft%20Azure.Identity%20Component@1.1000.323.51804"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.AspNetCore.Authentication.JwtBearer",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft.AspNetCore.Authentication.JwtBearer-0f3f084cd367522a",
+   "versionInfo": "8.0.11",
+   "supplier": "NOASSERTION",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\CourseWebAPI.deps.json",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_aspnetcore_authentication_jwtbearer:microsoft_aspnetcore_authentication_jwtbearer_.net:8.0.11:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_aspnetcore_authentication_jwtbearer:microsoft_aspnetcore_authentication_jwtbearer:8.0.11:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft.AspNetCore.Authentication.JwtBearer@8.0.11"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.AspNetCore.Authentication.JwtBearer",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft.AspNetCore.Authentication.JwtBearer-878245aef1a9abc7",
+   "versionInfo": "8.0.1124.52116",
+   "supplier": "Organization: Microsoft Corporation",
+   "originator": "Organization: Microsoft Corporation",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\Microsoft.AspNetCore.Authentication.JwtBearer.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation:microsoft_asp_net_core_.net:8.0.1124.52116:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation:microsoft_asp_net_core:8.0.1124.52116:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft.AspNetCore.Authentication.JwtBearer@8.0.1124.52116"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.Bcl.AsyncInterfaces",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft.Bcl.AsyncInterfaces-b0e8633e1e046e1a",
+   "versionInfo": "1.1.1",
+   "supplier": "NOASSERTION",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\CourseWebAPI.deps.json",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_bcl_asyncinterfaces:microsoft_bcl_asyncinterfaces_.net:1.1.1:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_bcl_asyncinterfaces:microsoft_bcl_asyncinterfaces:1.1.1:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft.Bcl.AsyncInterfaces@1.1.1"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.Bcl.AsyncInterfaces",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft.Bcl.AsyncInterfaces-7f4c64cd2bbd87ac",
+   "versionInfo": "4.700.20.21406",
+   "supplier": "Organization: Microsoft Corporation",
+   "originator": "Organization: Microsoft Corporation",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\Microsoft.Bcl.AsyncInterfaces.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft.Bcl.AsyncInterfaces@4.700.20.21406"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.Data.SqlClient",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft.Data.SqlClient-76ef09c6328bce8e",
+   "versionInfo": "5.1.5",
+   "supplier": "NOASSERTION",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\CourseWebAPI.deps.json",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_data_sqlclient:microsoft_data_sqlclient_.net:5.1.5:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_data_sqlclient:microsoft_data_sqlclient:5.1.5:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft.Data.SqlClient@5.1.5"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.Data.SqlClient",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft.Data.SqlClient-d6a0b86cadd7c8ed",
+   "versionInfo": "5.15.24027.2",
+   "supplier": "Organization: Microsoft Corporation",
+   "originator": "Organization: Microsoft Corporation",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\Microsoft.Data.SqlClient.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation:core_microsoft_sqlclient_data_provider_.net:5.15.24027.2:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation:core_microsoft_sqlclient_data_provider:5.15.24027.2:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft.Data.SqlClient@5.15.24027.2"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.Data.SqlClient",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft.Data.SqlClient-cff7c5aa5671664e",
+   "versionInfo": "5.15.24027.2",
+   "supplier": "Organization: Microsoft Corporation",
+   "originator": "Organization: Microsoft Corporation",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\runtimes\\unix\\lib\\net6.0\\Microsoft.Data.SqlClient.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation:core_microsoft_sqlclient_data_provider_.net:5.15.24027.2:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation:core_microsoft_sqlclient_data_provider:5.15.24027.2:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft.Data.SqlClient@5.15.24027.2"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.Data.SqlClient",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft.Data.SqlClient-55a81d5f55d595bc",
+   "versionInfo": "5.15.24027.2",
+   "supplier": "Organization: Microsoft Corporation",
+   "originator": "Organization: Microsoft Corporation",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\runtimes\\win\\lib\\net6.0\\Microsoft.Data.SqlClient.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation:core_microsoft_sqlclient_data_provider_.net:5.15.24027.2:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation:core_microsoft_sqlclient_data_provider:5.15.24027.2:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft.Data.SqlClient@5.15.24027.2"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.Data.SqlClient.SNI",
+   "SPDXID": "SPDXRef-Package-binary-Microsoft.Data.SqlClient.SNI-7ae350c27b407942",
+   "versionInfo": "5.1.1.0",
+   "supplier": "Organization: Microsoft Corporation",
+   "originator": "Organization: Microsoft Corporation",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from the following paths: \\bin\\Debug\\net8.0\\runtimes\\win-arm64\\native\\Microsoft.Data.SqlClient.SNI.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:Microsoft.Data.SqlClient.SNI:Microsoft.Data.SqlClient.SNI:5.1.1.0:*:*:*:*:*:*:*"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.Data.SqlClient.SNI",
+   "SPDXID": "SPDXRef-Package-binary-Microsoft.Data.SqlClient.SNI-0ca4062dc228ab0c",
+   "versionInfo": "5.1.1.0",
+   "supplier": "Organization: Microsoft Corporation",
+   "originator": "Organization: Microsoft Corporation",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from the following paths: \\bin\\Debug\\net8.0\\runtimes\\win-arm\\native\\Microsoft.Data.SqlClient.SNI.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:Microsoft.Data.SqlClient.SNI:Microsoft.Data.SqlClient.SNI:5.1.1.0:*:*:*:*:*:*:*"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.Data.SqlClient.SNI",
+   "SPDXID": "SPDXRef-Package-binary-Microsoft.Data.SqlClient.SNI-015d15482da761e7",
+   "versionInfo": "5.1.1.0",
+   "supplier": "Organization: Microsoft Corporation",
+   "originator": "Organization: Microsoft Corporation",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from the following paths: \\bin\\Debug\\net8.0\\runtimes\\win-x64\\native\\Microsoft.Data.SqlClient.SNI.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:Microsoft.Data.SqlClient.SNI:Microsoft.Data.SqlClient.SNI:5.1.1.0:*:*:*:*:*:*:*"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.Data.SqlClient.SNI",
+   "SPDXID": "SPDXRef-Package-binary-Microsoft.Data.SqlClient.SNI-c3338a9107706096",
+   "versionInfo": "5.1.1.0",
+   "supplier": "Organization: Microsoft Corporation",
+   "originator": "Organization: Microsoft Corporation",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from the following paths: \\bin\\Debug\\net8.0\\runtimes\\win-x86\\native\\Microsoft.Data.SqlClient.SNI.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:Microsoft.Data.SqlClient.SNI:Microsoft.Data.SqlClient.SNI:5.1.1.0:*:*:*:*:*:*:*"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.EntityFrameworkCore",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft.EntityFrameworkCore-35fbf697bbd1f938",
+   "versionInfo": "8.0.8",
+   "supplier": "NOASSERTION",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\CourseWebAPI.deps.json",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_entityframeworkcore:microsoft_entityframeworkcore_.net:8.0.8:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_entityframeworkcore:microsoft_entityframeworkcore:8.0.8:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft.EntityFrameworkCore@8.0.8"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.EntityFrameworkCore",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft.EntityFrameworkCore-61a5b72075634456",
+   "versionInfo": "8.0.824.36704",
+   "supplier": "Organization: Microsoft Corporation",
+   "originator": "Organization: Microsoft Corporation",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\Microsoft.EntityFrameworkCore.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation:microsoft_entity_framework_core_.net:8.0.824.36704:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation:microsoft_entity_framework_core:8.0.824.36704:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft.EntityFrameworkCore@8.0.824.36704"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.EntityFrameworkCore.Abstractions",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft.EntityFrameworkCore.Abstractions-fe15a17e899654a0",
+   "versionInfo": "8.0.8",
+   "supplier": "NOASSERTION",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\CourseWebAPI.deps.json",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_entityframeworkcore_abstractions:microsoft_entityframeworkcore_abstractions_.net:8.0.8:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_entityframeworkcore_abstractions:microsoft_entityframeworkcore_abstractions:8.0.8:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft.EntityFrameworkCore.Abstractions@8.0.8"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.EntityFrameworkCore.Abstractions",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft.EntityFrameworkCore.Abstractions-e638f5816a73383a",
+   "versionInfo": "8.0.824.36704",
+   "supplier": "Organization: Microsoft Corporation",
+   "originator": "Organization: Microsoft Corporation",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\Microsoft.EntityFrameworkCore.Abstractions.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation:microsoft_entity_framework_core_.net:8.0.824.36704:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation:microsoft_entity_framework_core:8.0.824.36704:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft.EntityFrameworkCore.Abstractions@8.0.824.36704"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.EntityFrameworkCore.Relational",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft.EntityFrameworkCore.Relational-84bd72abbe9c8e06",
+   "versionInfo": "8.0.8",
+   "supplier": "NOASSERTION",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\CourseWebAPI.deps.json",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_entityframeworkcore_relational:microsoft_entityframeworkcore_relational_.net:8.0.8:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_entityframeworkcore_relational:microsoft_entityframeworkcore_relational:8.0.8:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft.EntityFrameworkCore.Relational@8.0.8"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.EntityFrameworkCore.Relational",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft.EntityFrameworkCore.Relational-3a6bee3d0b55f85f",
+   "versionInfo": "8.0.824.36704",
+   "supplier": "Organization: Microsoft Corporation",
+   "originator": "Organization: Microsoft Corporation",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\Microsoft.EntityFrameworkCore.Relational.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation:microsoft_entity_framework_core_.net:8.0.824.36704:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation:microsoft_entity_framework_core:8.0.824.36704:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft.EntityFrameworkCore.Relational@8.0.824.36704"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.EntityFrameworkCore.SqlServer",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft.EntityFrameworkCore.SqlServer-bd7ec75f3314ac8e",
+   "versionInfo": "8.0.8",
+   "supplier": "NOASSERTION",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\CourseWebAPI.deps.json",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_entityframeworkcore_sqlserver:microsoft_entityframeworkcore_sqlserver_.net:8.0.8:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_entityframeworkcore_sqlserver:microsoft_entityframeworkcore_sqlserver:8.0.8:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft.EntityFrameworkCore.SqlServer@8.0.8"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.EntityFrameworkCore.SqlServer",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft.EntityFrameworkCore.SqlServer-570d54cebe076432",
+   "versionInfo": "8.0.824.36704",
+   "supplier": "Organization: Microsoft Corporation",
+   "originator": "Organization: Microsoft Corporation",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\Microsoft.EntityFrameworkCore.SqlServer.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation:microsoft_entity_framework_core_.net:8.0.824.36704:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation:microsoft_entity_framework_core:8.0.824.36704:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft.EntityFrameworkCore.SqlServer@8.0.824.36704"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.Identity.Client",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft.Identity.Client-4a590c33d78f8ebe",
+   "versionInfo": "4.56.0",
+   "supplier": "NOASSERTION",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\CourseWebAPI.deps.json",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_identity_client:microsoft_identity_client_.net:4.56.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_identity_client:microsoft_identity_client:4.56.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft.Identity.Client@4.56.0"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.Identity.Client",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft.Identity.Client-7f738186439c6280",
+   "versionInfo": "4.56.0.0",
+   "supplier": "Organization: Microsoft Corporation",
+   "originator": "Organization: Microsoft Corporation",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\Microsoft.Identity.Client.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation:microsoft_authentication_library_.net:4.56.0.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation:microsoft_authentication_library:4.56.0.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft.Identity.Client@4.56.0.0"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.Identity.Client.Extensions.Msal",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft.Identity.Client.Extensions.Msal-6acf8ad48469bd69",
+   "versionInfo": "4.56.0",
+   "supplier": "NOASSERTION",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\CourseWebAPI.deps.json",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_identity_client_extensions_msal:microsoft_identity_client_extensions_msal_.net:4.56.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_identity_client_extensions_msal:microsoft_identity_client_extensions_msal:4.56.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft.Identity.Client.Extensions.Msal@4.56.0"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.Identity.Client.Extensions.Msal",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft.Identity.Client.Extensions.Msal-e61922a845d80144",
+   "versionInfo": "4.56.0.0",
+   "supplier": "Organization: Microsoft Corporation",
+   "originator": "Organization: Microsoft Corporation",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\Microsoft.Identity.Client.Extensions.Msal.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation:microsoft_authentication_library_.net:4.56.0.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation:microsoft_authentication_library:4.56.0.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft.Identity.Client.Extensions.Msal@4.56.0.0"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.IdentityModel.Abstractions",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Abstractions-72f49603a4f0faff",
+   "versionInfo": "7.1.2",
+   "supplier": "NOASSERTION",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\CourseWebAPI.deps.json",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_identitymodel_abstractions:microsoft_identitymodel_abstractions_.net:7.1.2:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_identitymodel_abstractions:microsoft_identitymodel_abstractions:7.1.2:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft.IdentityModel.Abstractions@7.1.2"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.IdentityModel.Abstractions",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Abstractions-66a403387fcbfc70",
+   "versionInfo": "7.1.2.41121005246.a607fa5e0005a6178cf1d2fed4fa0f8179cdb186",
+   "supplier": "Organization: Microsoft Corporation.",
+   "originator": "Organization: Microsoft Corporation.",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\Microsoft.IdentityModel.Abstractions.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation_:microsoft_identitymodel_.net:7.1.2.41121005246.a607fa5e0005a6178cf1d2fed4fa0f8179cdb186:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation_:microsoft_identitymodel:7.1.2.41121005246.a607fa5e0005a6178cf1d2fed4fa0f8179cdb186:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft.IdentityModel.Abstractions@7.1.2.41121005246.a607fa5e0005a6178cf1d2fed4fa0f8179cdb186"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.IdentityModel.JsonWebTokens",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.JsonWebTokens-abfeb5f61c1e0289",
+   "versionInfo": "7.1.2",
+   "supplier": "NOASSERTION",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\CourseWebAPI.deps.json",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_identitymodel_jsonwebtokens:microsoft_identitymodel_jsonwebtokens_.net:7.1.2:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_identitymodel_jsonwebtokens:microsoft_identitymodel_jsonwebtokens:7.1.2:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft.IdentityModel.JsonWebTokens@7.1.2"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.IdentityModel.JsonWebTokens",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.JsonWebTokens-b2b6610d70dcc775",
+   "versionInfo": "7.1.2.41121005246.a607fa5e0005a6178cf1d2fed4fa0f8179cdb186",
+   "supplier": "Organization: Microsoft Corporation.",
+   "originator": "Organization: Microsoft Corporation.",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\Microsoft.IdentityModel.JsonWebTokens.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation_:microsoft_identitymodel_.net:7.1.2.41121005246.a607fa5e0005a6178cf1d2fed4fa0f8179cdb186:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation_:microsoft_identitymodel:7.1.2.41121005246.a607fa5e0005a6178cf1d2fed4fa0f8179cdb186:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft.IdentityModel.JsonWebTokens@7.1.2.41121005246.a607fa5e0005a6178cf1d2fed4fa0f8179cdb186"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.IdentityModel.Logging",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Logging-8dced8c30d661062",
+   "versionInfo": "7.1.2",
+   "supplier": "NOASSERTION",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\CourseWebAPI.deps.json",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_identitymodel_logging:microsoft_identitymodel_logging_.net:7.1.2:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_identitymodel_logging:microsoft_identitymodel_logging:7.1.2:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft.IdentityModel.Logging@7.1.2"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.IdentityModel.Logging",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Logging-73dbbb1179f106a0",
+   "versionInfo": "7.1.2.41121005246.a607fa5e0005a6178cf1d2fed4fa0f8179cdb186",
+   "supplier": "Organization: Microsoft Corporation.",
+   "originator": "Organization: Microsoft Corporation.",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\Microsoft.IdentityModel.Logging.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation_:microsoft_identitymodel_.net:7.1.2.41121005246.a607fa5e0005a6178cf1d2fed4fa0f8179cdb186:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation_:microsoft_identitymodel:7.1.2.41121005246.a607fa5e0005a6178cf1d2fed4fa0f8179cdb186:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft.IdentityModel.Logging@7.1.2.41121005246.a607fa5e0005a6178cf1d2fed4fa0f8179cdb186"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.IdentityModel.Protocols",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Protocols-1ace183f813215b8",
+   "versionInfo": "7.1.2",
+   "supplier": "NOASSERTION",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\CourseWebAPI.deps.json",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_identitymodel_protocols:microsoft_identitymodel_protocols_.net:7.1.2:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_identitymodel_protocols:microsoft_identitymodel_protocols:7.1.2:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft.IdentityModel.Protocols@7.1.2"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.IdentityModel.Protocols",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Protocols-6ec5bfb736548fba",
+   "versionInfo": "7.1.2.41121005246.a607fa5e0005a6178cf1d2fed4fa0f8179cdb186",
+   "supplier": "Organization: Microsoft Corporation.",
+   "originator": "Organization: Microsoft Corporation.",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\Microsoft.IdentityModel.Protocols.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation_:microsoft_identitymodel_.net:7.1.2.41121005246.a607fa5e0005a6178cf1d2fed4fa0f8179cdb186:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation_:microsoft_identitymodel:7.1.2.41121005246.a607fa5e0005a6178cf1d2fed4fa0f8179cdb186:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft.IdentityModel.Protocols@7.1.2.41121005246.a607fa5e0005a6178cf1d2fed4fa0f8179cdb186"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.IdentityModel.Protocols.OpenIdConnect",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Protocols.OpenIdConnect-a20eb06882445219",
+   "versionInfo": "7.1.2",
+   "supplier": "NOASSERTION",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\CourseWebAPI.deps.json",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_identitymodel_protocols_openidconnect:microsoft_identitymodel_protocols_openidconnect_.net:7.1.2:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_identitymodel_protocols_openidconnect:microsoft_identitymodel_protocols_openidconnect:7.1.2:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft.IdentityModel.Protocols.OpenIdConnect@7.1.2"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.IdentityModel.Protocols.OpenIdConnect",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Protocols.OpenIdConnect-c128cbdfc94355d4",
+   "versionInfo": "7.1.2.41121005246.a607fa5e0005a6178cf1d2fed4fa0f8179cdb186",
+   "supplier": "Organization: Microsoft Corporation.",
+   "originator": "Organization: Microsoft Corporation.",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation_:microsoft_identitymodel_.net:7.1.2.41121005246.a607fa5e0005a6178cf1d2fed4fa0f8179cdb186:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation_:microsoft_identitymodel:7.1.2.41121005246.a607fa5e0005a6178cf1d2fed4fa0f8179cdb186:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft.IdentityModel.Protocols.OpenIdConnect@7.1.2.41121005246.a607fa5e0005a6178cf1d2fed4fa0f8179cdb186"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.IdentityModel.Tokens",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Tokens-29f935fd91841a68",
+   "versionInfo": "7.1.2",
+   "supplier": "NOASSERTION",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\CourseWebAPI.deps.json",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_identitymodel_tokens:microsoft_identitymodel_tokens_.net:7.1.2:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_identitymodel_tokens:microsoft_identitymodel_tokens:7.1.2:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft.IdentityModel.Tokens@7.1.2"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.IdentityModel.Tokens",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Tokens-9fba83b6929224c7",
+   "versionInfo": "7.1.2.41121005246.a607fa5e0005a6178cf1d2fed4fa0f8179cdb186",
+   "supplier": "Organization: Microsoft Corporation.",
+   "originator": "Organization: Microsoft Corporation.",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\Microsoft.IdentityModel.Tokens.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation_:microsoft_identitymodel_.net:7.1.2.41121005246.a607fa5e0005a6178cf1d2fed4fa0f8179cdb186:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation_:microsoft_identitymodel:7.1.2.41121005246.a607fa5e0005a6178cf1d2fed4fa0f8179cdb186:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft.IdentityModel.Tokens@7.1.2.41121005246.a607fa5e0005a6178cf1d2fed4fa0f8179cdb186"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.OpenApi",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft.OpenApi-bf5cdb6010cb3031",
+   "versionInfo": "1.2.3",
+   "supplier": "NOASSERTION",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\CourseWebAPI.deps.json",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_openapi:microsoft_openapi_.net:1.2.3:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_openapi:microsoft_openapi:1.2.3:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft.OpenApi@1.2.3"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.OpenApi",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft.OpenApi-b31a54df9e168366",
+   "versionInfo": "1.2.3.0",
+   "supplier": "Organization: Microsoft",
+   "originator": "Organization: Microsoft",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\Microsoft.OpenApi.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft:microsoft_openapi_.net:1.2.3.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft:microsoft_openapi:1.2.3.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft.OpenApi@1.2.3.0"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.SqlServer.Server",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft.SqlServer.Server-1c95e36b2371ecfa",
+   "versionInfo": "1.0.0",
+   "supplier": "NOASSERTION",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\CourseWebAPI.deps.json",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_sqlserver_server:microsoft_sqlserver_server_.net:1.0.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_sqlserver_server:microsoft_sqlserver_server:1.0.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft.SqlServer.Server@1.0.0"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.SqlServer.Server",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft.SqlServer.Server-defb2b2db0c4e168",
+   "versionInfo": "1.0.0.0",
+   "supplier": "Organization: Microsoft Corporation",
+   "originator": "Organization: Microsoft Corporation",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\Microsoft.SqlServer.Server.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation:microsoft_sqlserver_server_.net:1.0.0.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation:microsoft_sqlserver_server:1.0.0.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft.SqlServer.Server@1.0.0.0"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.Win32.SystemEvents",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft.Win32.SystemEvents-03edec74c3aa25f3",
+   "versionInfo": "6.0.0",
+   "supplier": "NOASSERTION",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\CourseWebAPI.deps.json",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_win32_systemevents:microsoft_win32_systemevents_.net:6.0.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_win32_systemevents:microsoft_win32_systemevents:6.0.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft.Win32.SystemEvents@6.0.0"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.Win32.SystemEvents",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft.Win32.SystemEvents-042d5e63d8fa5187",
+   "versionInfo": "6.0.21.52210",
+   "supplier": "Organization: Microsoft Corporation",
+   "originator": "Organization: Microsoft Corporation",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\Microsoft.Win32.SystemEvents.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft.Win32.SystemEvents@6.0.21.52210"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft.Win32.SystemEvents",
+   "SPDXID": "SPDXRef-Package-dotnet-Microsoft.Win32.SystemEvents-d3196915b28874ea",
+   "versionInfo": "6.0.21.52210",
+   "supplier": "Organization: Microsoft Corporation",
+   "originator": "Organization: Microsoft Corporation",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\runtimes\\win\\lib\\net6.0\\Microsoft.Win32.SystemEvents.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Microsoft.Win32.SystemEvents@6.0.21.52210"
+    }
+   ]
+  },
+  {
+   "name": "Newtonsoft.Json",
+   "SPDXID": "SPDXRef-Package-dotnet-Newtonsoft.Json-58c516990f2be776",
+   "versionInfo": "13.0.3",
+   "supplier": "NOASSERTION",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\CourseWebAPI.deps.json",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:newtonsoft_json:newtonsoft_json_.net:13.0.3:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:newtonsoft_json:newtonsoft_json:13.0.3:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Newtonsoft.Json@13.0.3"
+    }
+   ]
+  },
+  {
+   "name": "Swashbuckle.AspNetCore",
+   "SPDXID": "SPDXRef-Package-dotnet-Swashbuckle.AspNetCore-687700175cdd5439",
+   "versionInfo": "6.4.0",
+   "supplier": "NOASSERTION",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\CourseWebAPI.deps.json",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:swashbuckle_aspnetcore:swashbuckle_aspnetcore_.net:6.4.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:swashbuckle_aspnetcore:swashbuckle_aspnetcore:6.4.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Swashbuckle.AspNetCore@6.4.0"
+    }
+   ]
+  },
+  {
+   "name": "Swashbuckle.AspNetCore.Swagger",
+   "SPDXID": "SPDXRef-Package-dotnet-Swashbuckle.AspNetCore.Swagger-4f61e6a81daf37d7",
+   "versionInfo": "6.4.0",
+   "supplier": "NOASSERTION",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\CourseWebAPI.deps.json",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:swashbuckle_aspnetcore_swagger:swashbuckle_aspnetcore_swagger_.net:6.4.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:swashbuckle_aspnetcore_swagger:swashbuckle_aspnetcore_swagger:6.4.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Swashbuckle.AspNetCore.Swagger@6.4.0"
+    }
+   ]
+  },
+  {
+   "name": "Swashbuckle.AspNetCore.Swagger",
+   "SPDXID": "SPDXRef-Package-dotnet-Swashbuckle.AspNetCore.Swagger-44a84261c7faa682",
+   "versionInfo": "6.4.0.0",
+   "supplier": "Organization: Swashbuckle.AspNetCore.Swagger",
+   "originator": "Organization: Swashbuckle.AspNetCore.Swagger",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\Swashbuckle.AspNetCore.Swagger.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:swashbuckle_aspnetcore_swagger:swashbuckle_aspnetcore_swagger_.net:6.4.0.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:swashbuckle_aspnetcore_swagger:swashbuckle_aspnetcore_swagger:6.4.0.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Swashbuckle.AspNetCore.Swagger@6.4.0.0"
+    }
+   ]
+  },
+  {
+   "name": "Swashbuckle.AspNetCore.SwaggerGen",
+   "SPDXID": "SPDXRef-Package-dotnet-Swashbuckle.AspNetCore.SwaggerGen-7f742a14e59f7bca",
+   "versionInfo": "6.4.0",
+   "supplier": "NOASSERTION",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\CourseWebAPI.deps.json",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:swashbuckle_aspnetcore_swaggergen:swashbuckle_aspnetcore_swaggergen_.net:6.4.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:swashbuckle_aspnetcore_swaggergen:swashbuckle_aspnetcore_swaggergen:6.4.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Swashbuckle.AspNetCore.SwaggerGen@6.4.0"
+    }
+   ]
+  },
+  {
+   "name": "Swashbuckle.AspNetCore.SwaggerGen",
+   "SPDXID": "SPDXRef-Package-dotnet-Swashbuckle.AspNetCore.SwaggerGen-644a01839ca9fdc3",
+   "versionInfo": "6.4.0.0",
+   "supplier": "Organization: Swashbuckle.AspNetCore.SwaggerGen",
+   "originator": "Organization: Swashbuckle.AspNetCore.SwaggerGen",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\Swashbuckle.AspNetCore.SwaggerGen.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:swashbuckle_aspnetcore_swaggergen:swashbuckle_aspnetcore_swaggergen_.net:6.4.0.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:swashbuckle_aspnetcore_swaggergen:swashbuckle_aspnetcore_swaggergen:6.4.0.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Swashbuckle.AspNetCore.SwaggerGen@6.4.0.0"
+    }
+   ]
+  },
+  {
+   "name": "Swashbuckle.AspNetCore.SwaggerUI",
+   "SPDXID": "SPDXRef-Package-dotnet-Swashbuckle.AspNetCore.SwaggerUI-d693919fc3181cbb",
+   "versionInfo": "6.4.0",
+   "supplier": "NOASSERTION",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\CourseWebAPI.deps.json",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:swashbuckle_aspnetcore_swaggerui:swashbuckle_aspnetcore_swaggerui_.net:6.4.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:swashbuckle_aspnetcore_swaggerui:swashbuckle_aspnetcore_swaggerui:6.4.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Swashbuckle.AspNetCore.SwaggerUI@6.4.0"
+    }
+   ]
+  },
+  {
+   "name": "Swashbuckle.AspNetCore.SwaggerUI",
+   "SPDXID": "SPDXRef-Package-dotnet-Swashbuckle.AspNetCore.SwaggerUI-7122622001b23ab9",
+   "versionInfo": "6.4.0.0",
+   "supplier": "Organization: Swashbuckle.AspNetCore.SwaggerUI",
+   "originator": "Organization: Swashbuckle.AspNetCore.SwaggerUI",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\Swashbuckle.AspNetCore.SwaggerUI.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:swashbuckle_aspnetcore_swaggerui:swashbuckle_aspnetcore_swaggerui_.net:6.4.0.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:swashbuckle_aspnetcore_swaggerui:swashbuckle_aspnetcore_swaggerui:6.4.0.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/Swashbuckle.AspNetCore.SwaggerUI@6.4.0.0"
+    }
+   ]
+  },
+  {
+   "name": "System.Configuration.ConfigurationManager",
+   "SPDXID": "SPDXRef-Package-dotnet-System.Configuration.ConfigurationManager-f2d804bf193d1062",
+   "versionInfo": "6.0.1",
+   "supplier": "NOASSERTION",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\CourseWebAPI.deps.json",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:system_configuration_configurationmanager:system_configuration_configurationmanager_.net:6.0.1:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:system_configuration_configurationmanager:system_configuration_configurationmanager:6.0.1:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/System.Configuration.ConfigurationManager@6.0.1"
+    }
+   ]
+  },
+  {
+   "name": "System.Configuration.ConfigurationManager",
+   "SPDXID": "SPDXRef-Package-dotnet-System.Configuration.ConfigurationManager-23b38a944f60c5c9",
+   "versionInfo": "6.0.922.41905",
+   "supplier": "Organization: Microsoft Corporation",
+   "originator": "Organization: Microsoft Corporation",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\System.Configuration.ConfigurationManager.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/System.Configuration.ConfigurationManager@6.0.922.41905"
+    }
+   ]
+  },
+  {
+   "name": "System.Drawing.Common",
+   "SPDXID": "SPDXRef-Package-dotnet-System.Drawing.Common-db4083ccb35780ac",
+   "versionInfo": "6.0.0",
+   "supplier": "NOASSERTION",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\CourseWebAPI.deps.json",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:system_drawing_common:system_drawing_common_.net:6.0.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:system_drawing_common:system_drawing_common:6.0.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/System.Drawing.Common@6.0.0"
+    }
+   ]
+  },
+  {
+   "name": "System.Drawing.Common",
+   "SPDXID": "SPDXRef-Package-dotnet-System.Drawing.Common-c96ea144784bcc93",
+   "versionInfo": "6.0.21.52210",
+   "supplier": "Organization: Microsoft Corporation",
+   "originator": "Organization: Microsoft Corporation",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\System.Drawing.Common.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/System.Drawing.Common@6.0.21.52210"
+    }
+   ]
+  },
+  {
+   "name": "System.Drawing.Common",
+   "SPDXID": "SPDXRef-Package-dotnet-System.Drawing.Common-8b309d07ba70243d",
+   "versionInfo": "6.0.21.52210",
+   "supplier": "Organization: Microsoft Corporation",
+   "originator": "Organization: Microsoft Corporation",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\runtimes\\unix\\lib\\net6.0\\System.Drawing.Common.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/System.Drawing.Common@6.0.21.52210"
+    }
+   ]
+  },
+  {
+   "name": "System.Drawing.Common",
+   "SPDXID": "SPDXRef-Package-dotnet-System.Drawing.Common-94fc65c008be6531",
+   "versionInfo": "6.0.21.52210",
+   "supplier": "Organization: Microsoft Corporation",
+   "originator": "Organization: Microsoft Corporation",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\runtimes\\win\\lib\\net6.0\\System.Drawing.Common.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/System.Drawing.Common@6.0.21.52210"
+    }
+   ]
+  },
+  {
+   "name": "System.IdentityModel.Tokens.Jwt",
+   "SPDXID": "SPDXRef-Package-dotnet-System.IdentityModel.Tokens.Jwt-396bd2c9bfdc6548",
+   "versionInfo": "7.1.2",
+   "supplier": "NOASSERTION",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\CourseWebAPI.deps.json",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:system_identitymodel_tokens_jwt:system_identitymodel_tokens_jwt_.net:7.1.2:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:system_identitymodel_tokens_jwt:system_identitymodel_tokens_jwt:7.1.2:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/System.IdentityModel.Tokens.Jwt@7.1.2"
+    }
+   ]
+  },
+  {
+   "name": "System.IdentityModel.Tokens.Jwt",
+   "SPDXID": "SPDXRef-Package-dotnet-System.IdentityModel.Tokens.Jwt-a1a9b298fedf8b99",
+   "versionInfo": "7.1.2.41121005246.a607fa5e0005a6178cf1d2fed4fa0f8179cdb186",
+   "supplier": "Organization: Microsoft Corporation.",
+   "originator": "Organization: Microsoft Corporation.",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\System.IdentityModel.Tokens.Jwt.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation_:microsoft_identitymodel_.net:7.1.2.41121005246.a607fa5e0005a6178cf1d2fed4fa0f8179cdb186:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation_:microsoft_identitymodel:7.1.2.41121005246.a607fa5e0005a6178cf1d2fed4fa0f8179cdb186:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/System.IdentityModel.Tokens.Jwt@7.1.2.41121005246.a607fa5e0005a6178cf1d2fed4fa0f8179cdb186"
+    }
+   ]
+  },
+  {
+   "name": "System.Memory.Data",
+   "SPDXID": "SPDXRef-Package-dotnet-System.Memory.Data-c94e6f68706e0083",
+   "versionInfo": "1.0.2",
+   "supplier": "NOASSERTION",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\CourseWebAPI.deps.json",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:system_memory_data:system_memory_data_.net:1.0.2:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:system_memory_data:system_memory_data:1.0.2:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/System.Memory.Data@1.0.2"
+    }
+   ]
+  },
+  {
+   "name": "System.Memory.Data",
+   "SPDXID": "SPDXRef-Package-dotnet-System.Memory.Data-f856311eb4d13183",
+   "versionInfo": "1.0.221.20802",
+   "supplier": "Organization: Microsoft Corporation",
+   "originator": "Organization: Microsoft Corporation",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\System.Memory.Data.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation:azure__net_sdk_.net:1.0.221.20802:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:microsoft_corporation:azure__net_sdk:1.0.221.20802:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/System.Memory.Data@1.0.221.20802"
+    }
+   ]
+  },
+  {
+   "name": "System.Runtime.Caching",
+   "SPDXID": "SPDXRef-Package-dotnet-System.Runtime.Caching-3f0377486d744a4b",
+   "versionInfo": "6.0.0",
+   "supplier": "NOASSERTION",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\CourseWebAPI.deps.json",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:system_runtime_caching:system_runtime_caching_.net:6.0.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:system_runtime_caching:system_runtime_caching:6.0.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/System.Runtime.Caching@6.0.0"
+    }
+   ]
+  },
+  {
+   "name": "System.Runtime.Caching",
+   "SPDXID": "SPDXRef-Package-dotnet-System.Runtime.Caching-edc0681ac8ea38ee",
+   "versionInfo": "6.0.21.52210",
+   "supplier": "Organization: Microsoft Corporation",
+   "originator": "Organization: Microsoft Corporation",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\System.Runtime.Caching.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/System.Runtime.Caching@6.0.21.52210"
+    }
+   ]
+  },
+  {
+   "name": "System.Runtime.Caching",
+   "SPDXID": "SPDXRef-Package-dotnet-System.Runtime.Caching-c96902644a3df7f4",
+   "versionInfo": "6.0.21.52210",
+   "supplier": "Organization: Microsoft Corporation",
+   "originator": "Organization: Microsoft Corporation",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\runtimes\\win\\lib\\net6.0\\System.Runtime.Caching.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/System.Runtime.Caching@6.0.21.52210"
+    }
+   ]
+  },
+  {
+   "name": "System.Security.Cryptography.ProtectedData",
+   "SPDXID": "SPDXRef-Package-dotnet-System.Security.Cryptography.ProtectedData-009973c4406efa90",
+   "versionInfo": "6.0.0",
+   "supplier": "NOASSERTION",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\CourseWebAPI.deps.json",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:system_security_cryptography_protecteddata:system_security_cryptography_protecteddata_.net:6.0.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:system_security_cryptography_protecteddata:system_security_cryptography_protecteddata:6.0.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/System.Security.Cryptography.ProtectedData@6.0.0"
+    }
+   ]
+  },
+  {
+   "name": "System.Security.Cryptography.ProtectedData",
+   "SPDXID": "SPDXRef-Package-dotnet-System.Security.Cryptography.ProtectedData-122608f1a17c7d6d",
+   "versionInfo": "6.0.21.52210",
+   "supplier": "Organization: Microsoft Corporation",
+   "originator": "Organization: Microsoft Corporation",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\System.Security.Cryptography.ProtectedData.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/System.Security.Cryptography.ProtectedData@6.0.21.52210"
+    }
+   ]
+  },
+  {
+   "name": "System.Security.Cryptography.ProtectedData",
+   "SPDXID": "SPDXRef-Package-dotnet-System.Security.Cryptography.ProtectedData-5c2da9640c3db85b",
+   "versionInfo": "6.0.21.52210",
+   "supplier": "Organization: Microsoft Corporation",
+   "originator": "Organization: Microsoft Corporation",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\runtimes\\win\\lib\\net6.0\\System.Security.Cryptography.ProtectedData.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/System.Security.Cryptography.ProtectedData@6.0.21.52210"
+    }
+   ]
+  },
+  {
+   "name": "System.Security.Permissions",
+   "SPDXID": "SPDXRef-Package-dotnet-System.Security.Permissions-31fdbc9241d58539",
+   "versionInfo": "6.0.0",
+   "supplier": "NOASSERTION",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\CourseWebAPI.deps.json",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:system_security_permissions:system_security_permissions_.net:6.0.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:system_security_permissions:system_security_permissions:6.0.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/System.Security.Permissions@6.0.0"
+    }
+   ]
+  },
+  {
+   "name": "System.Security.Permissions",
+   "SPDXID": "SPDXRef-Package-dotnet-System.Security.Permissions-76155515ea2ce50d",
+   "versionInfo": "6.0.21.52210",
+   "supplier": "Organization: Microsoft Corporation",
+   "originator": "Organization: Microsoft Corporation",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\System.Security.Permissions.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/System.Security.Permissions@6.0.21.52210"
+    }
+   ]
+  },
+  {
+   "name": "System.Windows.Extensions",
+   "SPDXID": "SPDXRef-Package-dotnet-System.Windows.Extensions-8d128c24b32afb29",
+   "versionInfo": "6.0.0",
+   "supplier": "NOASSERTION",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\CourseWebAPI.deps.json",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:system_windows_extensions:system_windows_extensions_.net:6.0.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "SECURITY",
+     "referenceType": "cpe23Type",
+     "referenceLocator": "cpe:2.3:a:system_windows_extensions:system_windows_extensions:6.0.0:*:*:*:*:*:*:*"
+    },
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/System.Windows.Extensions@6.0.0"
+    }
+   ]
+  },
+  {
+   "name": "System.Windows.Extensions",
+   "SPDXID": "SPDXRef-Package-dotnet-System.Windows.Extensions-53bfea4fd771da4f",
+   "versionInfo": "6.0.21.52210",
+   "supplier": "Organization: Microsoft Corporation",
+   "originator": "Organization: Microsoft Corporation",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\System.Windows.Extensions.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/System.Windows.Extensions@6.0.21.52210"
+    }
+   ]
+  },
+  {
+   "name": "System.Windows.Extensions",
+   "SPDXID": "SPDXRef-Package-dotnet-System.Windows.Extensions-089bc64b0c741126",
+   "versionInfo": "6.0.21.52210",
+   "supplier": "Organization: Microsoft Corporation",
+   "originator": "Organization: Microsoft Corporation",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "sourceInfo": "acquired package info from dotnet project assets file: \\bin\\Debug\\net8.0\\runtimes\\win\\lib\\net6.0\\System.Windows.Extensions.dll",
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "externalRefs": [
+    {
+     "referenceCategory": "PACKAGE-MANAGER",
+     "referenceType": "purl",
+     "referenceLocator": "pkg:nuget/System.Windows.Extensions@6.0.21.52210"
+    }
+   ]
+  },
+  {
+   "name": ".",
+   "SPDXID": "SPDXRef-DocumentRoot-Directory-.",
+   "supplier": "NOASSERTION",
+   "downloadLocation": "NOASSERTION",
+   "filesAnalyzed": false,
+   "licenseConcluded": "NOASSERTION",
+   "licenseDeclared": "NOASSERTION",
+   "copyrightText": "NOASSERTION",
+   "primaryPackagePurpose": "FILE"
+  }
+ ],
+ "files": [
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\Azure.Core.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-Azure.Core.dll-35fa442bab976072",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\Azure.Identity.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-Azure.Identity.dll-81490ade04d28079",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\CourseCore.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-CourseCore.dll-939a069f13aef86d",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\CourseDataAccess.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-CourseDataAccess.dll-0ea42cebdb3c6bce",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\CourseWebAPI.deps.json",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-CourseWebAPI.deps.json-2bf613cf0a386f3b",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\CourseWebAPI.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-CourseWebAPI.dll-67b9901dfbd79c47",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\Microsoft.AspNetCore.Authentication.JwtBearer.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-Microsoft.AspNetCore.Authentication.JwtBearer.dll-e6a982a9ddc9c63b",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\Microsoft.Bcl.AsyncInterfaces.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-Microsoft.Bcl.AsyncInterfaces.dll-5686659edd623b9a",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\Microsoft.Data.SqlClient.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-Microsoft.Data.SqlClient.dll-6c7c4edc85b4a460",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\Microsoft.EntityFrameworkCore.Abstractions.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-Microsoft.EntityFrameworkCore.Abstractions.dll-4ceaf2547cdd6e07",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\Microsoft.EntityFrameworkCore.Relational.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-Microsoft.EntityFrameworkCore.Relational.dll-46c29a0332b8369f",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\Microsoft.EntityFrameworkCore.SqlServer.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-Microsoft.EntityFrameworkCore.SqlServer.dll-ae59147daf6fe875",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\Microsoft.EntityFrameworkCore.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-Microsoft.EntityFrameworkCore.dll-184c0eb03230b11b",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\Microsoft.Identity.Client.Extensions.Msal.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-Microsoft.Identity.Client.Extensions.Msal.dll-c0f48f6fc278bea8",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\Microsoft.Identity.Client.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-Microsoft.Identity.Client.dll-65c3cac0130fe9f4",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\Microsoft.IdentityModel.Abstractions.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-Microsoft.IdentityModel.Abstractions.dll-542e246702bec5c8",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\Microsoft.IdentityModel.JsonWebTokens.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-Microsoft.IdentityModel.JsonWebTokens.dll-c3ac67627f42b26e",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\Microsoft.IdentityModel.Logging.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-Microsoft.IdentityModel.Logging.dll-ff49c8a2223dc98f",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-Microsoft.IdentityModel.Protocols.OpenIdConnect.dll-feb4801e2c2e476b",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\Microsoft.IdentityModel.Protocols.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-Microsoft.IdentityModel.Protocols.dll-cadbb5af7d130910",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\Microsoft.IdentityModel.Tokens.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-Microsoft.IdentityModel.Tokens.dll-a40ba1b2d0cd5509",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\Microsoft.OpenApi.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-Microsoft.OpenApi.dll-07071d55cf34b043",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\Microsoft.SqlServer.Server.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-Microsoft.SqlServer.Server.dll-b95889bb5f64c048",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\Microsoft.Win32.SystemEvents.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-Microsoft.Win32.SystemEvents.dll-04ac527e9286af25",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\Newtonsoft.Json.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-Newtonsoft.Json.dll-f83505b7eb46d8f4",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\Swashbuckle.AspNetCore.Swagger.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-Swashbuckle.AspNetCore.Swagger.dll-a5d7eab19d15e3f2",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\Swashbuckle.AspNetCore.SwaggerGen.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-Swashbuckle.AspNetCore.SwaggerGen.dll-7b9d83ebf6eab7f6",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\Swashbuckle.AspNetCore.SwaggerUI.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-Swashbuckle.AspNetCore.SwaggerUI.dll-90a3314d4d4d3e78",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\System.Configuration.ConfigurationManager.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-System.Configuration.ConfigurationManager.dll-e6b7124c037d64fb",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\System.Drawing.Common.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-System.Drawing.Common.dll-a90ac2570edc1df3",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\System.IdentityModel.Tokens.Jwt.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-System.IdentityModel.Tokens.Jwt.dll-7d3bbf57b13eb196",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\System.Memory.Data.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-System.Memory.Data.dll-4e38df336e543555",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\System.Runtime.Caching.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-System.Runtime.Caching.dll-36a7d50be27a3444",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\System.Security.Cryptography.ProtectedData.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-System.Security.Cryptography.ProtectedData.dll-7c6ffc8196a87147",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\System.Security.Permissions.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-System.Security.Permissions.dll-3e0c85f8cee513b5",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\System.Windows.Extensions.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-System.Windows.Extensions.dll-c54595a41b072e3c",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\runtimes\\unix\\lib\\net6.0\\Microsoft.Data.SqlClient.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-runtimes-unix-lib-net6.0-Microsoft.Data.SqlClient.dll-fb4f9bad89ea5e5b",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\runtimes\\unix\\lib\\net6.0\\System.Drawing.Common.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-runtimes-unix-lib-net6.0-System.Drawing.Common.dll-0f25e2cf9b50f410",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\runtimes\\win-arm64\\native\\Microsoft.Data.SqlClient.SNI.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-runtimes-win-arm64-native-Microsoft.Data.SqlClient.SNI.dll-5a97a537f6028d95",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\runtimes\\win-arm\\native\\Microsoft.Data.SqlClient.SNI.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-runtimes-win-arm-native-Microsoft.Data.SqlClient.SNI.dll-87ccfadfc244758c",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\runtimes\\win-x64\\native\\Microsoft.Data.SqlClient.SNI.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-runtimes-win-x64-native-Microsoft.Data.SqlClient.SNI.dll-8447527358f35eff",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\runtimes\\win-x86\\native\\Microsoft.Data.SqlClient.SNI.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-runtimes-win-x86-native-Microsoft.Data.SqlClient.SNI.dll-4a5febe2a3341f6c",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\runtimes\\win\\lib\\net6.0\\Microsoft.Data.SqlClient.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-runtimes-win-lib-net6.0-Microsoft.Data.SqlClient.dll-c241213d62cf9e64",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\runtimes\\win\\lib\\net6.0\\Microsoft.Win32.SystemEvents.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-runtimes-win-lib-net6.0-Microsoft.Win32.SystemEvents.dll-9bc95ed23cb67a57",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\runtimes\\win\\lib\\net6.0\\System.Drawing.Common.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-runtimes-win-lib-net6.0-System.Drawing.Common.dll-23762d15e6618703",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\runtimes\\win\\lib\\net6.0\\System.Runtime.Caching.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-runtimes-win-lib-net6.0-System.Runtime.Caching.dll-2a6a431d367e9965",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\runtimes\\win\\lib\\net6.0\\System.Security.Cryptography.ProtectedData.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-runtimes-win-lib-net6.0-System.Security.Cryptography.ProtectedData.dll-bfb7f21f67182975",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\bin\\Debug\\net8.0\\runtimes\\win\\lib\\net6.0\\System.Windows.Extensions.dll",
+   "SPDXID": "SPDXRef-File--bin-Debug-net8.0-runtimes-win-lib-net6.0-System.Windows.Extensions.dll-34fd93c98045d4ad",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\obj\\Debug\\net8.0\\CourseWebAPI.dll",
+   "SPDXID": "SPDXRef-File--obj-Debug-net8.0-CourseWebAPI.dll-5b33bbfb4597b2bf",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\obj\\Debug\\net8.0\\apphost.exe",
+   "SPDXID": "SPDXRef-File--obj-Debug-net8.0-apphost.exe-c032a2701fb84049",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\obj\\Debug\\net8.0\\ref\\CourseWebAPI.dll",
+   "SPDXID": "SPDXRef-File--obj-Debug-net8.0-ref-CourseWebAPI.dll-e7f7a2fa89075739",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  },
+  {
+   "fileName": "\\obj\\Debug\\net8.0\\refint\\CourseWebAPI.dll",
+   "SPDXID": "SPDXRef-File--obj-Debug-net8.0-refint-CourseWebAPI.dll-0ae421a6d5fdcd9b",
+   "checksums": [
+    {
+     "algorithm": "SHA1",
+     "checksumValue": "0000000000000000000000000000000000000000"
+    }
+   ],
+   "licenseConcluded": "NOASSERTION",
+   "licenseInfoInFiles": [
+    "NOASSERTION"
+   ],
+   "copyrightText": "NOASSERTION"
+  }
+ ],
+ "relationships": [
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-System.Security.Cryptography.ProtectedData-009973c4406efa90",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Azure.Identity-5f8619868e3fe167",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-System.Security.Cryptography.ProtectedData-009973c4406efa90",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.Identity.Client.Extensions.Msal-6acf8ad48469bd69",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-System.Security.Cryptography.ProtectedData-009973c4406efa90",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-System.Configuration.ConfigurationManager-f2d804bf193d1062",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.Win32.SystemEvents-03edec74c3aa25f3",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-System.Drawing.Common-db4083ccb35780ac",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.AspNetCore.Authentication.JwtBearer-0f3f084cd367522a",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-CourseWebAPI-5a5ce6e3cddf11ea",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Protocols-1ace183f813215b8",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Protocols.OpenIdConnect-a20eb06882445219",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.SqlServer.Server-1c95e36b2371ecfa",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.Data.SqlClient-76ef09c6328bce8e",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Tokens-29f935fd91841a68",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Protocols-1ace183f813215b8",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Tokens-29f935fd91841a68",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-System.IdentityModel.Tokens.Jwt-396bd2c9bfdc6548",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Tokens-29f935fd91841a68",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.JsonWebTokens-abfeb5f61c1e0289",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-System.Security.Permissions-31fdbc9241d58539",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-System.Configuration.ConfigurationManager-f2d804bf193d1062",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.EntityFrameworkCore-35fbf697bbd1f938",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-CourseWebAPI-5a5ce6e3cddf11ea",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.EntityFrameworkCore-35fbf697bbd1f938",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.EntityFrameworkCore.Relational-84bd72abbe9c8e06",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-System.IdentityModel.Tokens.Jwt-396bd2c9bfdc6548",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Protocols.OpenIdConnect-a20eb06882445219",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-System.Runtime.Caching-3f0377486d744a4b",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.Data.SqlClient-76ef09c6328bce8e",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.Identity.Client-4a590c33d78f8ebe",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Azure.Identity-5f8619868e3fe167",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.Identity.Client-4a590c33d78f8ebe",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.Identity.Client.Extensions.Msal-6acf8ad48469bd69",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.Identity.Client-4a590c33d78f8ebe",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.Data.SqlClient-76ef09c6328bce8e",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Swashbuckle.AspNetCore.Swagger-4f61e6a81daf37d7",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Swashbuckle.AspNetCore-687700175cdd5439",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Swashbuckle.AspNetCore.Swagger-4f61e6a81daf37d7",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Swashbuckle.AspNetCore.SwaggerGen-7f742a14e59f7bca",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Newtonsoft.Json-58c516990f2be776",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-CourseWebAPI-5a5ce6e3cddf11ea",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Azure.Identity-5f8619868e3fe167",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.Data.SqlClient-76ef09c6328bce8e",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Swashbuckle.AspNetCore-687700175cdd5439",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-CourseWebAPI-5a5ce6e3cddf11ea",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.Identity.Client.Extensions.Msal-6acf8ad48469bd69",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Azure.Identity-5f8619868e3fe167",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Abstractions-72f49603a4f0faff",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.Identity.Client-4a590c33d78f8ebe",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Abstractions-72f49603a4f0faff",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Logging-8dced8c30d661062",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.Data.SqlClient-76ef09c6328bce8e",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.EntityFrameworkCore.SqlServer-bd7ec75f3314ac8e",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Swashbuckle.AspNetCore.SwaggerGen-7f742a14e59f7bca",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Swashbuckle.AspNetCore-687700175cdd5439",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.EntityFrameworkCore.Relational-84bd72abbe9c8e06",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.EntityFrameworkCore.SqlServer-bd7ec75f3314ac8e",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-System.Windows.Extensions-8d128c24b32afb29",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-System.Security.Permissions-31fdbc9241d58539",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Logging-8dced8c30d661062",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Protocols-1ace183f813215b8",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Logging-8dced8c30d661062",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Tokens-29f935fd91841a68",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Azure.Core-990bd4b326bb9320",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Azure.Identity-5f8619868e3fe167",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Protocols.OpenIdConnect-a20eb06882445219",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.AspNetCore.Authentication.JwtBearer-0f3f084cd367522a",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Protocols.OpenIdConnect-a20eb06882445219",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.Data.SqlClient-76ef09c6328bce8e",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.JsonWebTokens-abfeb5f61c1e0289",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-System.IdentityModel.Tokens.Jwt-396bd2c9bfdc6548",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.JsonWebTokens-abfeb5f61c1e0289",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.Data.SqlClient-76ef09c6328bce8e",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.Bcl.AsyncInterfaces-b0e8633e1e046e1a",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Azure.Core-990bd4b326bb9320",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.EntityFrameworkCore.SqlServer-bd7ec75f3314ac8e",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-CourseWebAPI-5a5ce6e3cddf11ea",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.OpenApi-bf5cdb6010cb3031",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Swashbuckle.AspNetCore.Swagger-4f61e6a81daf37d7",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-System.Memory.Data-c94e6f68706e0083",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Azure.Core-990bd4b326bb9320",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Swashbuckle.AspNetCore.SwaggerUI-d693919fc3181cbb",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Swashbuckle.AspNetCore-687700175cdd5439",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-System.Drawing.Common-db4083ccb35780ac",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-System.Windows.Extensions-8d128c24b32afb29",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-System.Configuration.ConfigurationManager-f2d804bf193d1062",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-System.Runtime.Caching-3f0377486d744a4b",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-System.Configuration.ConfigurationManager-f2d804bf193d1062",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.Data.SqlClient-76ef09c6328bce8e",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.EntityFrameworkCore.Abstractions-fe15a17e899654a0",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.EntityFrameworkCore-35fbf697bbd1f938",
+   "relationshipType": "DEPENDENCY_OF"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-System.Security.Cryptography.ProtectedData-009973c4406efa90",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-CourseWebAPI.deps.json-2bf613cf0a386f3b",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-binary-Microsoft.Data.SqlClient.SNI-015d15482da761e7",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-runtimes-win-x64-native-Microsoft.Data.SqlClient.SNI.dll-8447527358f35eff",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.Win32.SystemEvents-03edec74c3aa25f3",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-CourseWebAPI.deps.json-2bf613cf0a386f3b",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.Win32.SystemEvents-042d5e63d8fa5187",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-Microsoft.Win32.SystemEvents.dll-04ac527e9286af25",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-System.Windows.Extensions-089bc64b0c741126",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-runtimes-win-lib-net6.0-System.Windows.Extensions.dll-34fd93c98045d4ad",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-binary-Microsoft.Data.SqlClient.SNI-0ca4062dc228ab0c",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-runtimes-win-arm-native-Microsoft.Data.SqlClient.SNI.dll-87ccfadfc244758c",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.AspNetCore.Authentication.JwtBearer-0f3f084cd367522a",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-CourseWebAPI.deps.json-2bf613cf0a386f3b",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-System.Security.Cryptography.ProtectedData-122608f1a17c7d6d",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-System.Security.Cryptography.ProtectedData.dll-7c6ffc8196a87147",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Protocols-1ace183f813215b8",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-CourseWebAPI.deps.json-2bf613cf0a386f3b",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.SqlServer.Server-1c95e36b2371ecfa",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-CourseWebAPI.deps.json-2bf613cf0a386f3b",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-System.Configuration.ConfigurationManager-23b38a944f60c5c9",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-System.Configuration.ConfigurationManager.dll-e6b7124c037d64fb",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Tokens-29f935fd91841a68",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-CourseWebAPI.deps.json-2bf613cf0a386f3b",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft-Azure.Identity-Component-2ec04dd74c1bbf1f",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-Azure.Identity.dll-81490ade04d28079",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-System.Security.Permissions-31fdbc9241d58539",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-CourseWebAPI.deps.json-2bf613cf0a386f3b",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-CourseWebAPI-34c712d198f4a089",
+   "relatedSpdxElement": "SPDXRef-File--obj-Debug-net8.0-ref-CourseWebAPI.dll-e7f7a2fa89075739",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.EntityFrameworkCore-35fbf697bbd1f938",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-CourseWebAPI.deps.json-2bf613cf0a386f3b",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-System.IdentityModel.Tokens.Jwt-396bd2c9bfdc6548",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-CourseWebAPI.deps.json-2bf613cf0a386f3b",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.EntityFrameworkCore.Relational-3a6bee3d0b55f85f",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-Microsoft.EntityFrameworkCore.Relational.dll-46c29a0332b8369f",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-System.Runtime.Caching-3f0377486d744a4b",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-CourseWebAPI.deps.json-2bf613cf0a386f3b",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Swashbuckle.AspNetCore.Swagger-44a84261c7faa682",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-Swashbuckle.AspNetCore.Swagger.dll-a5d7eab19d15e3f2",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.Identity.Client-4a590c33d78f8ebe",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-CourseWebAPI.deps.json-2bf613cf0a386f3b",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Swashbuckle.AspNetCore.Swagger-4f61e6a81daf37d7",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-CourseWebAPI.deps.json-2bf613cf0a386f3b",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-System.Windows.Extensions-53bfea4fd771da4f",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-System.Windows.Extensions.dll-c54595a41b072e3c",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.Data.SqlClient-55a81d5f55d595bc",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-runtimes-win-lib-net6.0-Microsoft.Data.SqlClient.dll-c241213d62cf9e64",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.EntityFrameworkCore.SqlServer-570d54cebe076432",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-Microsoft.EntityFrameworkCore.SqlServer.dll-ae59147daf6fe875",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Newtonsoft.Json-58c516990f2be776",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-CourseWebAPI.deps.json-2bf613cf0a386f3b",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-binary-CourseWebAPI-59db2a3f278dd248",
+   "relatedSpdxElement": "SPDXRef-File--obj-Debug-net8.0-apphost.exe-c032a2701fb84049",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-CourseWebAPI-5a5ce6e3cddf11ea",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-CourseWebAPI.deps.json-2bf613cf0a386f3b",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-System.Security.Cryptography.ProtectedData-5c2da9640c3db85b",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-runtimes-win-lib-net6.0-System.Security.Cryptography.ProtectedData.dll-bfb7f21f67182975",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Azure.Identity-5f8619868e3fe167",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-CourseWebAPI.deps.json-2bf613cf0a386f3b",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.EntityFrameworkCore-61a5b72075634456",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-Microsoft.EntityFrameworkCore.dll-184c0eb03230b11b",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Swashbuckle.AspNetCore.SwaggerGen-644a01839ca9fdc3",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-Swashbuckle.AspNetCore.SwaggerGen.dll-7b9d83ebf6eab7f6",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Abstractions-66a403387fcbfc70",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-Microsoft.IdentityModel.Abstractions.dll-542e246702bec5c8",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Swashbuckle.AspNetCore-687700175cdd5439",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-CourseWebAPI.deps.json-2bf613cf0a386f3b",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.Identity.Client.Extensions.Msal-6acf8ad48469bd69",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-CourseWebAPI.deps.json-2bf613cf0a386f3b",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Protocols-6ec5bfb736548fba",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-Microsoft.IdentityModel.Protocols.dll-cadbb5af7d130910",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Swashbuckle.AspNetCore.SwaggerUI-7122622001b23ab9",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-Swashbuckle.AspNetCore.SwaggerUI.dll-90a3314d4d4d3e78",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Abstractions-72f49603a4f0faff",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-CourseWebAPI.deps.json-2bf613cf0a386f3b",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Logging-73dbbb1179f106a0",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-Microsoft.IdentityModel.Logging.dll-ff49c8a2223dc98f",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-System.Security.Permissions-76155515ea2ce50d",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-System.Security.Permissions.dll-3e0c85f8cee513b5",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.Data.SqlClient-76ef09c6328bce8e",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-CourseWebAPI.deps.json-2bf613cf0a386f3b",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-binary-Microsoft.Data.SqlClient.SNI-7ae350c27b407942",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-runtimes-win-arm64-native-Microsoft.Data.SqlClient.SNI.dll-5a97a537f6028d95",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.Bcl.AsyncInterfaces-7f4c64cd2bbd87ac",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-Microsoft.Bcl.AsyncInterfaces.dll-5686659edd623b9a",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.Identity.Client-7f738186439c6280",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-Microsoft.Identity.Client.dll-65c3cac0130fe9f4",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Swashbuckle.AspNetCore.SwaggerGen-7f742a14e59f7bca",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-CourseWebAPI.deps.json-2bf613cf0a386f3b",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.EntityFrameworkCore.Relational-84bd72abbe9c8e06",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-CourseWebAPI.deps.json-2bf613cf0a386f3b",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.AspNetCore.Authentication.JwtBearer-878245aef1a9abc7",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-Microsoft.AspNetCore.Authentication.JwtBearer.dll-e6a982a9ddc9c63b",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-System.Drawing.Common-8b309d07ba70243d",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-runtimes-unix-lib-net6.0-System.Drawing.Common.dll-0f25e2cf9b50f410",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-System.Windows.Extensions-8d128c24b32afb29",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-CourseWebAPI.deps.json-2bf613cf0a386f3b",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Logging-8dced8c30d661062",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-CourseWebAPI.deps.json-2bf613cf0a386f3b",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-System.Drawing.Common-94fc65c008be6531",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-runtimes-win-lib-net6.0-System.Drawing.Common.dll-23762d15e6618703",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Json.NET-9869806433ca9f08",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-Newtonsoft.Json.dll-f83505b7eb46d8f4",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Azure.Core-990bd4b326bb9320",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-CourseWebAPI.deps.json-2bf613cf0a386f3b",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-CourseDataAccess-9aa998a770390d51",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-CourseDataAccess.dll-0ea42cebdb3c6bce",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Tokens-9fba83b6929224c7",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-Microsoft.IdentityModel.Tokens.dll-a40ba1b2d0cd5509",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-System.IdentityModel.Tokens.Jwt-a1a9b298fedf8b99",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-System.IdentityModel.Tokens.Jwt.dll-7d3bbf57b13eb196",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Protocols.OpenIdConnect-a20eb06882445219",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-CourseWebAPI.deps.json-2bf613cf0a386f3b",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.JsonWebTokens-abfeb5f61c1e0289",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-CourseWebAPI.deps.json-2bf613cf0a386f3b",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.Bcl.AsyncInterfaces-b0e8633e1e046e1a",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-CourseWebAPI.deps.json-2bf613cf0a386f3b",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.JsonWebTokens-b2b6610d70dcc775",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-Microsoft.IdentityModel.JsonWebTokens.dll-c3ac67627f42b26e",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.OpenApi-b31a54df9e168366",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-Microsoft.OpenApi.dll-07071d55cf34b043",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.EntityFrameworkCore.SqlServer-bd7ec75f3314ac8e",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-CourseWebAPI.deps.json-2bf613cf0a386f3b",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.OpenApi-bf5cdb6010cb3031",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-CourseWebAPI.deps.json-2bf613cf0a386f3b",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Protocols.OpenIdConnect-c128cbdfc94355d4",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-Microsoft.IdentityModel.Protocols.OpenIdConnect.dll-feb4801e2c2e476b",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-binary-Microsoft.Data.SqlClient.SNI-c3338a9107706096",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-runtimes-win-x86-native-Microsoft.Data.SqlClient.SNI.dll-4a5febe2a3341f6c",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-CourseWebAPI-c4c50301eb5ab8cb",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-CourseWebAPI.dll-67b9901dfbd79c47",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-System.Memory.Data-c94e6f68706e0083",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-CourseWebAPI.deps.json-2bf613cf0a386f3b",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-System.Runtime.Caching-c96902644a3df7f4",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-runtimes-win-lib-net6.0-System.Runtime.Caching.dll-2a6a431d367e9965",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-System.Drawing.Common-c96ea144784bcc93",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-System.Drawing.Common.dll-a90ac2570edc1df3",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft-Azure-Client-Pipeline-cfe6830bf3d5e4f4",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-Azure.Core.dll-35fa442bab976072",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.Data.SqlClient-cff7c5aa5671664e",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-runtimes-unix-lib-net6.0-Microsoft.Data.SqlClient.dll-fb4f9bad89ea5e5b",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.Win32.SystemEvents-d3196915b28874ea",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-runtimes-win-lib-net6.0-Microsoft.Win32.SystemEvents.dll-9bc95ed23cb67a57",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Swashbuckle.AspNetCore.SwaggerUI-d693919fc3181cbb",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-CourseWebAPI.deps.json-2bf613cf0a386f3b",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.Data.SqlClient-d6a0b86cadd7c8ed",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-Microsoft.Data.SqlClient.dll-6c7c4edc85b4a460",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-System.Drawing.Common-db4083ccb35780ac",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-CourseWebAPI.deps.json-2bf613cf0a386f3b",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.SqlServer.Server-defb2b2db0c4e168",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-Microsoft.SqlServer.Server.dll-b95889bb5f64c048",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.Identity.Client.Extensions.Msal-e61922a845d80144",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-Microsoft.Identity.Client.Extensions.Msal.dll-c0f48f6fc278bea8",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.EntityFrameworkCore.Abstractions-e638f5816a73383a",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-Microsoft.EntityFrameworkCore.Abstractions.dll-4ceaf2547cdd6e07",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-CourseCore-ed110d1c511bf0a0",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-CourseCore.dll-939a069f13aef86d",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-System.Runtime.Caching-edc0681ac8ea38ee",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-System.Runtime.Caching.dll-36a7d50be27a3444",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-CourseWebAPI-f04fec9cc7ffb53d",
+   "relatedSpdxElement": "SPDXRef-File--obj-Debug-net8.0-refint-CourseWebAPI.dll-0ae421a6d5fdcd9b",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-CourseWebAPI-f0ddf7a025a1d062",
+   "relatedSpdxElement": "SPDXRef-File--obj-Debug-net8.0-CourseWebAPI.dll-5b33bbfb4597b2bf",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-System.Configuration.ConfigurationManager-f2d804bf193d1062",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-CourseWebAPI.deps.json-2bf613cf0a386f3b",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-System.Memory.Data-f856311eb4d13183",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-System.Memory.Data.dll-4e38df336e543555",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-Package-dotnet-Microsoft.EntityFrameworkCore.Abstractions-fe15a17e899654a0",
+   "relatedSpdxElement": "SPDXRef-File--bin-Debug-net8.0-CourseWebAPI.deps.json-2bf613cf0a386f3b",
+   "relationshipType": "OTHER",
+   "comment": "evident-by: indicates the package's existence is evident by the given file"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Azure.Core-990bd4b326bb9320",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Azure.Identity-5f8619868e3fe167",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-CourseCore-ed110d1c511bf0a0",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-CourseDataAccess-9aa998a770390d51",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-binary-CourseWebAPI-59db2a3f278dd248",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-CourseWebAPI-5a5ce6e3cddf11ea",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-CourseWebAPI-c4c50301eb5ab8cb",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-CourseWebAPI-f0ddf7a025a1d062",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-CourseWebAPI-34c712d198f4a089",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-CourseWebAPI-f04fec9cc7ffb53d",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Json.NET-9869806433ca9f08",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft-Azure-Client-Pipeline-cfe6830bf3d5e4f4",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft-Azure.Identity-Component-2ec04dd74c1bbf1f",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.AspNetCore.Authentication.JwtBearer-0f3f084cd367522a",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.AspNetCore.Authentication.JwtBearer-878245aef1a9abc7",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.Bcl.AsyncInterfaces-b0e8633e1e046e1a",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.Bcl.AsyncInterfaces-7f4c64cd2bbd87ac",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.Data.SqlClient-76ef09c6328bce8e",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.Data.SqlClient-d6a0b86cadd7c8ed",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.Data.SqlClient-cff7c5aa5671664e",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.Data.SqlClient-55a81d5f55d595bc",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-binary-Microsoft.Data.SqlClient.SNI-7ae350c27b407942",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-binary-Microsoft.Data.SqlClient.SNI-0ca4062dc228ab0c",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-binary-Microsoft.Data.SqlClient.SNI-015d15482da761e7",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-binary-Microsoft.Data.SqlClient.SNI-c3338a9107706096",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.EntityFrameworkCore-35fbf697bbd1f938",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.EntityFrameworkCore-61a5b72075634456",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.EntityFrameworkCore.Abstractions-fe15a17e899654a0",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.EntityFrameworkCore.Abstractions-e638f5816a73383a",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.EntityFrameworkCore.Relational-84bd72abbe9c8e06",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.EntityFrameworkCore.Relational-3a6bee3d0b55f85f",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.EntityFrameworkCore.SqlServer-bd7ec75f3314ac8e",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.EntityFrameworkCore.SqlServer-570d54cebe076432",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.Identity.Client-4a590c33d78f8ebe",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.Identity.Client-7f738186439c6280",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.Identity.Client.Extensions.Msal-6acf8ad48469bd69",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.Identity.Client.Extensions.Msal-e61922a845d80144",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Abstractions-72f49603a4f0faff",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Abstractions-66a403387fcbfc70",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.JsonWebTokens-abfeb5f61c1e0289",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.JsonWebTokens-b2b6610d70dcc775",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Logging-8dced8c30d661062",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Logging-73dbbb1179f106a0",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Protocols-1ace183f813215b8",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Protocols-6ec5bfb736548fba",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Protocols.OpenIdConnect-a20eb06882445219",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Protocols.OpenIdConnect-c128cbdfc94355d4",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Tokens-29f935fd91841a68",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.IdentityModel.Tokens-9fba83b6929224c7",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.OpenApi-bf5cdb6010cb3031",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.OpenApi-b31a54df9e168366",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.SqlServer.Server-1c95e36b2371ecfa",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.SqlServer.Server-defb2b2db0c4e168",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.Win32.SystemEvents-03edec74c3aa25f3",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.Win32.SystemEvents-042d5e63d8fa5187",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Microsoft.Win32.SystemEvents-d3196915b28874ea",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Newtonsoft.Json-58c516990f2be776",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Swashbuckle.AspNetCore-687700175cdd5439",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Swashbuckle.AspNetCore.Swagger-4f61e6a81daf37d7",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Swashbuckle.AspNetCore.Swagger-44a84261c7faa682",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Swashbuckle.AspNetCore.SwaggerGen-7f742a14e59f7bca",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Swashbuckle.AspNetCore.SwaggerGen-644a01839ca9fdc3",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Swashbuckle.AspNetCore.SwaggerUI-d693919fc3181cbb",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-Swashbuckle.AspNetCore.SwaggerUI-7122622001b23ab9",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-System.Configuration.ConfigurationManager-f2d804bf193d1062",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-System.Configuration.ConfigurationManager-23b38a944f60c5c9",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-System.Drawing.Common-db4083ccb35780ac",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-System.Drawing.Common-c96ea144784bcc93",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-System.Drawing.Common-8b309d07ba70243d",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-System.Drawing.Common-94fc65c008be6531",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-System.IdentityModel.Tokens.Jwt-396bd2c9bfdc6548",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-System.IdentityModel.Tokens.Jwt-a1a9b298fedf8b99",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-System.Memory.Data-c94e6f68706e0083",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-System.Memory.Data-f856311eb4d13183",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-System.Runtime.Caching-3f0377486d744a4b",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-System.Runtime.Caching-edc0681ac8ea38ee",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-System.Runtime.Caching-c96902644a3df7f4",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-System.Security.Cryptography.ProtectedData-009973c4406efa90",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-System.Security.Cryptography.ProtectedData-122608f1a17c7d6d",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-System.Security.Cryptography.ProtectedData-5c2da9640c3db85b",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-System.Security.Permissions-31fdbc9241d58539",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-System.Security.Permissions-76155515ea2ce50d",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-System.Windows.Extensions-8d128c24b32afb29",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-System.Windows.Extensions-53bfea4fd771da4f",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DocumentRoot-Directory-.",
+   "relatedSpdxElement": "SPDXRef-Package-dotnet-System.Windows.Extensions-089bc64b0c741126",
+   "relationshipType": "CONTAINS"
+  },
+  {
+   "spdxElementId": "SPDXRef-DOCUMENT",
+   "relatedSpdxElement": "SPDXRef-DocumentRoot-Directory-.",
+   "relationshipType": "DESCRIBES"
+  }
+ ]
+}

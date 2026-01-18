@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "U1C1Zg5Vn2Y=",
+  "success": true,
+  "projectFilePath": "D:\\芸\\ASP.NETCore\\ASP.NETCoreWeb1123\\ASP.NET Core MVC網站與雲端開發實作班_1123\\CourseProject\\CourseCore\\CourseCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.11\\microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.11\\microsoft.windowsdesktop.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.11\\microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

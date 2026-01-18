@@ -1,0 +1,45 @@
+F:\dotNet\TW202401\CourseDataAccess\bin\Debug\net8.0\CourseDataAccess.deps.json
+F:\dotNet\TW202401\CourseDataAccess\bin\Debug\net8.0\CourseDataAccess.dll
+F:\dotNet\TW202401\CourseDataAccess\bin\Debug\net8.0\CourseDataAccess.pdb
+F:\dotNet\TW202401\CourseDataAccess\bin\Debug\net8.0\CourseCore.dll
+F:\dotNet\TW202401\CourseDataAccess\bin\Debug\net8.0\CourseCore.pdb
+F:\dotNet\TW202401\CourseDataAccess\obj\Debug\net8.0\CourseDataAccess.csproj.AssemblyReference.cache
+F:\dotNet\TW202401\CourseDataAccess\obj\Debug\net8.0\CourseDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\dotNet\TW202401\CourseDataAccess\obj\Debug\net8.0\CourseDataAccess.AssemblyInfoInputs.cache
+F:\dotNet\TW202401\CourseDataAccess\obj\Debug\net8.0\CourseDataAccess.AssemblyInfo.cs
+F:\dotNet\TW202401\CourseDataAccess\obj\Debug\net8.0\CourseDataAccess.csproj.CoreCompileInputs.cache
+F:\dotNet\TW202401\CourseDataAccess\obj\Debug\net8.0\CourseDa.0F309820.Up2Date
+F:\dotNet\TW202401\CourseDataAccess\obj\Debug\net8.0\CourseDataAccess.dll
+F:\dotNet\TW202401\CourseDataAccess\obj\Debug\net8.0\refint\CourseDataAccess.dll
+F:\dotNet\TW202401\CourseDataAccess\obj\Debug\net8.0\CourseDataAccess.pdb
+F:\dotNet\TW202401\CourseDataAccess\obj\Debug\net8.0\ref\CourseDataAccess.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseDataAccess\obj\Debug\net8.0\CourseDataAccess.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseDataAccess\obj\Debug\net8.0\refint\CourseDataAccess.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseDataAccess\obj\Debug\net8.0\CourseDataAccess.pdb
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseDataAccess\bin\Debug\net8.0\CourseDataAccess.deps.json
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseDataAccess\bin\Debug\net8.0\CourseDataAccess.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseDataAccess\bin\Debug\net8.0\CourseDataAccess.pdb
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseDataAccess\bin\Debug\net8.0\CourseCore.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseDataAccess\bin\Debug\net8.0\CourseCore.pdb
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseDataAccess\obj\Debug\net8.0\CourseDataAccess.csproj.AssemblyReference.cache
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseDataAccess\obj\Debug\net8.0\CourseDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseDataAccess\obj\Debug\net8.0\CourseDataAccess.AssemblyInfoInputs.cache
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseDataAccess\obj\Debug\net8.0\CourseDataAccess.AssemblyInfo.cs
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseDataAccess\obj\Debug\net8.0\CourseDataAccess.csproj.CoreCompileInputs.cache
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseDataAccess\obj\Debug\net8.0\CourseDa.0F309820.Up2Date
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseDataAccess\obj\Debug\net8.0\ref\CourseDataAccess.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseDataAccess\bin\Debug\net8.0\CourseDataAccess.deps.json
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseDataAccess\bin\Debug\net8.0\CourseDataAccess.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseDataAccess\bin\Debug\net8.0\CourseDataAccess.pdb
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseDataAccess\bin\Debug\net8.0\CourseCore.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseDataAccess\bin\Debug\net8.0\CourseCore.pdb
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseDataAccess\obj\Debug\net8.0\CourseDataAccess.csproj.AssemblyReference.cache
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseDataAccess\obj\Debug\net8.0\CourseDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseDataAccess\obj\Debug\net8.0\CourseDataAccess.AssemblyInfoInputs.cache
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseDataAccess\obj\Debug\net8.0\CourseDataAccess.AssemblyInfo.cs
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseDataAccess\obj\Debug\net8.0\CourseDataAccess.csproj.CoreCompileInputs.cache
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseDataAccess\obj\Debug\net8.0\CourseDa.0F309820.Up2Date
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseDataAccess\obj\Debug\net8.0\CourseDataAccess.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseDataAccess\obj\Debug\net8.0\refint\CourseDataAccess.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseDataAccess\obj\Debug\net8.0\CourseDataAccess.pdb
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseDataAccess\obj\Debug\net8.0\ref\CourseDataAccess.dll

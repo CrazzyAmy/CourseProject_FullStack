@@ -1,0 +1,50 @@
+F:\dotNet\TW202401\CourseConsoleApp\obj\Debug\net8.0\CourseConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\dotNet\TW202401\CourseConsoleApp\obj\Debug\net8.0\CourseConsoleApp.AssemblyInfoInputs.cache
+F:\dotNet\TW202401\CourseConsoleApp\obj\Debug\net8.0\CourseConsoleApp.AssemblyInfo.cs
+F:\dotNet\TW202401\CourseConsoleApp\obj\Debug\net8.0\CourseConsoleApp.csproj.CoreCompileInputs.cache
+F:\dotNet\TW202401\CourseConsoleApp\bin\Debug\net8.0\CourseConsoleApp.exe
+F:\dotNet\TW202401\CourseConsoleApp\bin\Debug\net8.0\CourseConsoleApp.deps.json
+F:\dotNet\TW202401\CourseConsoleApp\bin\Debug\net8.0\CourseConsoleApp.runtimeconfig.json
+F:\dotNet\TW202401\CourseConsoleApp\bin\Debug\net8.0\CourseConsoleApp.dll
+F:\dotNet\TW202401\CourseConsoleApp\bin\Debug\net8.0\CourseConsoleApp.pdb
+F:\dotNet\TW202401\CourseConsoleApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\dotNet\TW202401\CourseConsoleApp\obj\Debug\net8.0\CourseConsoleApp.csproj.AssemblyReference.cache
+F:\dotNet\TW202401\CourseConsoleApp\obj\Debug\net8.0\CourseCo.DAF22191.Up2Date
+F:\dotNet\TW202401\CourseConsoleApp\obj\Debug\net8.0\CourseConsoleApp.dll
+F:\dotNet\TW202401\CourseConsoleApp\obj\Debug\net8.0\refint\CourseConsoleApp.dll
+F:\dotNet\TW202401\CourseConsoleApp\obj\Debug\net8.0\CourseConsoleApp.pdb
+F:\dotNet\TW202401\CourseConsoleApp\obj\Debug\net8.0\CourseConsoleApp.genruntimeconfig.cache
+F:\dotNet\TW202401\CourseConsoleApp\obj\Debug\net8.0\ref\CourseConsoleApp.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseConsoleApp\obj\Debug\net8.0\CourseConsoleApp.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseConsoleApp\obj\Debug\net8.0\refint\CourseConsoleApp.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseConsoleApp\obj\Debug\net8.0\CourseConsoleApp.pdb
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseConsoleApp\bin\Debug\net8.0\CourseConsoleApp.exe
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseConsoleApp\bin\Debug\net8.0\CourseConsoleApp.deps.json
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseConsoleApp\bin\Debug\net8.0\CourseConsoleApp.runtimeconfig.json
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseConsoleApp\bin\Debug\net8.0\CourseConsoleApp.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseConsoleApp\bin\Debug\net8.0\CourseConsoleApp.pdb
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseConsoleApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseConsoleApp\obj\Debug\net8.0\CourseConsoleApp.csproj.AssemblyReference.cache
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseConsoleApp\obj\Debug\net8.0\CourseConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseConsoleApp\obj\Debug\net8.0\CourseConsoleApp.AssemblyInfoInputs.cache
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseConsoleApp\obj\Debug\net8.0\CourseConsoleApp.AssemblyInfo.cs
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseConsoleApp\obj\Debug\net8.0\CourseConsoleApp.csproj.CoreCompileInputs.cache
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseConsoleApp\obj\Debug\net8.0\CourseCo.DAF22191.Up2Date
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseConsoleApp\obj\Debug\net8.0\CourseConsoleApp.genruntimeconfig.cache
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseConsoleApp\obj\Debug\net8.0\ref\CourseConsoleApp.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseConsoleApp\obj\Debug\net8.0\CourseConsoleApp.csproj.AssemblyReference.cache
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseConsoleApp\obj\Debug\net8.0\CourseConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseConsoleApp\obj\Debug\net8.0\CourseConsoleApp.AssemblyInfoInputs.cache
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseConsoleApp\obj\Debug\net8.0\CourseConsoleApp.AssemblyInfo.cs
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseConsoleApp\obj\Debug\net8.0\CourseConsoleApp.csproj.CoreCompileInputs.cache
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseConsoleApp\obj\Debug\net8.0\CourseConsoleApp.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseConsoleApp\obj\Debug\net8.0\refint\CourseConsoleApp.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseConsoleApp\obj\Debug\net8.0\CourseConsoleApp.pdb
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseConsoleApp\bin\Debug\net8.0\CourseConsoleApp.deps.json
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseConsoleApp\bin\Debug\net8.0\CourseConsoleApp.runtimeconfig.json
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseConsoleApp\bin\Debug\net8.0\CourseConsoleApp.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseConsoleApp\bin\Debug\net8.0\CourseConsoleApp.pdb
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseConsoleApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseConsoleApp\obj\Debug\net8.0\CourseCo.DAF22191.Up2Date
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseConsoleApp\obj\Debug\net8.0\CourseConsoleApp.genruntimeconfig.cache
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseConsoleApp\obj\Debug\net8.0\ref\CourseConsoleApp.dll

@@ -1,0 +1,65 @@
+F:\dotNet\TW202401\WebMiniAPI\bin\Debug\net8.0\appsettings.Development.json
+F:\dotNet\TW202401\WebMiniAPI\bin\Debug\net8.0\appsettings.json
+F:\dotNet\TW202401\WebMiniAPI\bin\Debug\net8.0\WebMiniAPI.exe
+F:\dotNet\TW202401\WebMiniAPI\bin\Debug\net8.0\WebMiniAPI.deps.json
+F:\dotNet\TW202401\WebMiniAPI\bin\Debug\net8.0\WebMiniAPI.runtimeconfig.json
+F:\dotNet\TW202401\WebMiniAPI\bin\Debug\net8.0\WebMiniAPI.dll
+F:\dotNet\TW202401\WebMiniAPI\bin\Debug\net8.0\WebMiniAPI.pdb
+F:\dotNet\TW202401\WebMiniAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+F:\dotNet\TW202401\WebMiniAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\dotNet\TW202401\WebMiniAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\dotNet\TW202401\WebMiniAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\dotNet\TW202401\WebMiniAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\dotNet\TW202401\WebMiniAPI\obj\Debug\net8.0\WebMiniAPI.csproj.AssemblyReference.cache
+F:\dotNet\TW202401\WebMiniAPI\obj\Debug\net8.0\WebMiniAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\dotNet\TW202401\WebMiniAPI\obj\Debug\net8.0\WebMiniAPI.AssemblyInfoInputs.cache
+F:\dotNet\TW202401\WebMiniAPI\obj\Debug\net8.0\WebMiniAPI.AssemblyInfo.cs
+F:\dotNet\TW202401\WebMiniAPI\obj\Debug\net8.0\WebMiniAPI.csproj.CoreCompileInputs.cache
+F:\dotNet\TW202401\WebMiniAPI\obj\Debug\net8.0\WebMiniAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\dotNet\TW202401\WebMiniAPI\obj\Debug\net8.0\WebMiniAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\dotNet\TW202401\WebMiniAPI\obj\Debug\net8.0\staticwebassets.build.json
+F:\dotNet\TW202401\WebMiniAPI\obj\Debug\net8.0\staticwebassets.development.json
+F:\dotNet\TW202401\WebMiniAPI\obj\Debug\net8.0\staticwebassets\msbuild.WebMiniAPI.Microsoft.AspNetCore.StaticWebAssets.props
+F:\dotNet\TW202401\WebMiniAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.WebMiniAPI.props
+F:\dotNet\TW202401\WebMiniAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebMiniAPI.props
+F:\dotNet\TW202401\WebMiniAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebMiniAPI.props
+F:\dotNet\TW202401\WebMiniAPI\obj\Debug\net8.0\staticwebassets.pack.json
+F:\dotNet\TW202401\WebMiniAPI\obj\Debug\net8.0\scopedcss\bundle\WebMiniAPI.styles.css
+F:\dotNet\TW202401\WebMiniAPI\obj\Debug\net8.0\WebMiniAPI.csproj.Up2Date
+F:\dotNet\TW202401\WebMiniAPI\obj\Debug\net8.0\WebMiniAPI.dll
+F:\dotNet\TW202401\WebMiniAPI\obj\Debug\net8.0\refint\WebMiniAPI.dll
+F:\dotNet\TW202401\WebMiniAPI\obj\Debug\net8.0\WebMiniAPI.pdb
+F:\dotNet\TW202401\WebMiniAPI\obj\Debug\net8.0\WebMiniAPI.genruntimeconfig.cache
+F:\dotNet\TW202401\WebMiniAPI\obj\Debug\net8.0\ref\WebMiniAPI.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\WebMiniAPI\obj\Debug\net8.0\WebMiniAPI.csproj.AssemblyReference.cache
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\WebMiniAPI\obj\Debug\net8.0\WebMiniAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\WebMiniAPI\obj\Debug\net8.0\WebMiniAPI.AssemblyInfoInputs.cache
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\WebMiniAPI\obj\Debug\net8.0\WebMiniAPI.AssemblyInfo.cs
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\WebMiniAPI\obj\Debug\net8.0\WebMiniAPI.csproj.CoreCompileInputs.cache
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\WebMiniAPI\obj\Debug\net8.0\WebMiniAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\WebMiniAPI\obj\Debug\net8.0\WebMiniAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\WebMiniAPI\obj\Debug\net8.0\WebMiniAPI.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\WebMiniAPI\obj\Debug\net8.0\refint\WebMiniAPI.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\WebMiniAPI\obj\Debug\net8.0\WebMiniAPI.pdb
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\WebMiniAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\WebMiniAPI\bin\Debug\net8.0\appsettings.json
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\WebMiniAPI\bin\Debug\net8.0\WebMiniAPI.deps.json
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\WebMiniAPI\bin\Debug\net8.0\WebMiniAPI.runtimeconfig.json
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\WebMiniAPI\bin\Debug\net8.0\WebMiniAPI.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\WebMiniAPI\bin\Debug\net8.0\WebMiniAPI.pdb
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\WebMiniAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\WebMiniAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\WebMiniAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\WebMiniAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\WebMiniAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\WebMiniAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\WebMiniAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\WebMiniAPI\obj\Debug\net8.0\staticwebassets\msbuild.WebMiniAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\WebMiniAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.WebMiniAPI.props
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\WebMiniAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebMiniAPI.props
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\WebMiniAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebMiniAPI.props
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\WebMiniAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\WebMiniAPI\obj\Debug\net8.0\scopedcss\bundle\WebMiniAPI.styles.css
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\WebMiniAPI\obj\Debug\net8.0\WebMiniAPI.csproj.Up2Date
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\WebMiniAPI\obj\Debug\net8.0\WebMiniAPI.genruntimeconfig.cache
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\WebMiniAPI\obj\Debug\net8.0\ref\WebMiniAPI.dll

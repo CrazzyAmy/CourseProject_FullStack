@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CourseConsoleApp",
+    "\\CourseWebAPI",
+    "\\CourseWebAPI\\Controllers",
+    "\\CourseWebJSApp",
+    "\\CourseWebJSApp\\Controllers",
+    "\\CourseWebJSApp\\Models",
+    "\\CourseWebJSApp\\Views",
+    "\\CourseWebJSApp\\Views\\Home",
+    "\\WebMiniAPI"
+  ],
+  "SelectedNode": "\\CourseWebAPI\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

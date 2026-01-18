@@ -1,0 +1,228 @@
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\appsettings.Development.json
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\appsettings.json
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\CourseWebAPI.exe
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\CourseWebAPI.deps.json
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\CourseWebAPI.runtimeconfig.json
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\CourseWebAPI.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\CourseWebAPI.pdb
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\Azure.Core.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\Azure.Identity.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\System.Memory.Data.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\CourseCore.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\CourseDataAccess.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\CourseCore.pdb
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\CourseDataAccess.pdb
+F:\dotNet\TW202401\CourseWebAPI\obj\Debug\net8.0\CourseWebAPI.csproj.AssemblyReference.cache
+F:\dotNet\TW202401\CourseWebAPI\obj\Debug\net8.0\CourseWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\dotNet\TW202401\CourseWebAPI\obj\Debug\net8.0\CourseWebAPI.AssemblyInfoInputs.cache
+F:\dotNet\TW202401\CourseWebAPI\obj\Debug\net8.0\CourseWebAPI.AssemblyInfo.cs
+F:\dotNet\TW202401\CourseWebAPI\obj\Debug\net8.0\CourseWebAPI.csproj.CoreCompileInputs.cache
+F:\dotNet\TW202401\CourseWebAPI\obj\Debug\net8.0\CourseWebAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\dotNet\TW202401\CourseWebAPI\obj\Debug\net8.0\CourseWebAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\dotNet\TW202401\CourseWebAPI\obj\Debug\net8.0\staticwebassets.build.json
+F:\dotNet\TW202401\CourseWebAPI\obj\Debug\net8.0\staticwebassets.development.json
+F:\dotNet\TW202401\CourseWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.CourseWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+F:\dotNet\TW202401\CourseWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.CourseWebAPI.props
+F:\dotNet\TW202401\CourseWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CourseWebAPI.props
+F:\dotNet\TW202401\CourseWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CourseWebAPI.props
+F:\dotNet\TW202401\CourseWebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+F:\dotNet\TW202401\CourseWebAPI\obj\Debug\net8.0\scopedcss\bundle\CourseWebAPI.styles.css
+F:\dotNet\TW202401\CourseWebAPI\obj\Debug\net8.0\CourseWe.8D8065CB.Up2Date
+F:\dotNet\TW202401\CourseWebAPI\obj\Debug\net8.0\CourseWebAPI.dll
+F:\dotNet\TW202401\CourseWebAPI\obj\Debug\net8.0\refint\CourseWebAPI.dll
+F:\dotNet\TW202401\CourseWebAPI\obj\Debug\net8.0\CourseWebAPI.pdb
+F:\dotNet\TW202401\CourseWebAPI\obj\Debug\net8.0\CourseWebAPI.genruntimeconfig.cache
+F:\dotNet\TW202401\CourseWebAPI\obj\Debug\net8.0\ref\CourseWebAPI.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\dotNet\TW202401\CourseWebAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\CourseWebAPI.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\refint\CourseWebAPI.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\CourseWebAPI.pdb
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\appsettings.json
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\CourseWebAPI.exe
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\CourseWebAPI.deps.json
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\CourseWebAPI.runtimeconfig.json
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\CourseWebAPI.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\CourseWebAPI.pdb
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\CourseCore.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\CourseDataAccess.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\CourseCore.pdb
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\CourseDataAccess.pdb
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\CourseWebAPI.csproj.AssemblyReference.cache
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\CourseWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\CourseWebAPI.AssemblyInfoInputs.cache
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\CourseWebAPI.AssemblyInfo.cs
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\CourseWebAPI.csproj.CoreCompileInputs.cache
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\CourseWebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\CourseWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.CourseWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.CourseWebAPI.props
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CourseWebAPI.props
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CourseWebAPI.props
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\scopedcss\bundle\CourseWebAPI.styles.css
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\CourseWe.8D8065CB.Up2Date
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\CourseWebAPI.genruntimeconfig.cache
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\ref\CourseWebAPI.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\CourseWebAPI.csproj.AssemblyReference.cache
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\CourseWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\CourseWebAPI.AssemblyInfoInputs.cache
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\CourseWebAPI.AssemblyInfo.cs
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\CourseWebAPI.csproj.CoreCompileInputs.cache
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\CourseWebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\CourseWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\CourseWebAPI.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\refint\CourseWebAPI.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\CourseWebAPI.pdb
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\appsettings.json
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\CourseWebAPI.deps.json
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\CourseWebAPI.runtimeconfig.json
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\CourseWebAPI.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\CourseWebAPI.pdb
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\CourseCore.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\CourseDataAccess.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\CourseCore.pdb
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\CourseDataAccess.pdb
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.CourseWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.CourseWebAPI.props
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CourseWebAPI.props
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CourseWebAPI.props
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\scopedcss\bundle\CourseWebAPI.styles.css
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\CourseWe.8D8065CB.Up2Date
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\CourseWebAPI.genruntimeconfig.cache
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\obj\Debug\net8.0\ref\CourseWebAPI.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseWebAPI\bin\Debug\net8.0\output_dir\syft.spdx.json

@@ -1,0 +1,33 @@
+F:\dotNet\TW202401\CourseCore\bin\Debug\net8.0\CourseCore.deps.json
+F:\dotNet\TW202401\CourseCore\bin\Debug\net8.0\CourseCore.dll
+F:\dotNet\TW202401\CourseCore\bin\Debug\net8.0\CourseCore.pdb
+F:\dotNet\TW202401\CourseCore\obj\Debug\net8.0\CourseCore.GeneratedMSBuildEditorConfig.editorconfig
+F:\dotNet\TW202401\CourseCore\obj\Debug\net8.0\CourseCore.AssemblyInfoInputs.cache
+F:\dotNet\TW202401\CourseCore\obj\Debug\net8.0\CourseCore.AssemblyInfo.cs
+F:\dotNet\TW202401\CourseCore\obj\Debug\net8.0\CourseCore.csproj.CoreCompileInputs.cache
+F:\dotNet\TW202401\CourseCore\obj\Debug\net8.0\CourseCore.dll
+F:\dotNet\TW202401\CourseCore\obj\Debug\net8.0\refint\CourseCore.dll
+F:\dotNet\TW202401\CourseCore\obj\Debug\net8.0\CourseCore.pdb
+F:\dotNet\TW202401\CourseCore\obj\Debug\net8.0\ref\CourseCore.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseCore\bin\Debug\net8.0\CourseCore.deps.json
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseCore\bin\Debug\net8.0\CourseCore.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseCore\bin\Debug\net8.0\CourseCore.pdb
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseCore\obj\Debug\net8.0\CourseCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseCore\obj\Debug\net8.0\CourseCore.AssemblyInfoInputs.cache
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseCore\obj\Debug\net8.0\CourseCore.AssemblyInfo.cs
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseCore\obj\Debug\net8.0\CourseCore.csproj.CoreCompileInputs.cache
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseCore\obj\Debug\net8.0\CourseCore.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseCore\obj\Debug\net8.0\refint\CourseCore.dll
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseCore\obj\Debug\net8.0\CourseCore.pdb
+D:\芸\ASP.NETCore\ASP.NETCore1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseCore\obj\Debug\net8.0\ref\CourseCore.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseCore\bin\Debug\net8.0\CourseCore.deps.json
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseCore\bin\Debug\net8.0\CourseCore.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseCore\bin\Debug\net8.0\CourseCore.pdb
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseCore\obj\Debug\net8.0\CourseCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseCore\obj\Debug\net8.0\CourseCore.AssemblyInfoInputs.cache
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseCore\obj\Debug\net8.0\CourseCore.AssemblyInfo.cs
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseCore\obj\Debug\net8.0\CourseCore.csproj.CoreCompileInputs.cache
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseCore\obj\Debug\net8.0\CourseCore.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseCore\obj\Debug\net8.0\refint\CourseCore.dll
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseCore\obj\Debug\net8.0\CourseCore.pdb
+D:\芸\ASP.NETCore\ASP.NETCoreWeb1123\ASP.NET Core MVC網站與雲端開發實作班_1123\CourseProject\CourseCore\obj\Debug\net8.0\ref\CourseCore.dll
