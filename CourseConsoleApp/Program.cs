@@ -156,7 +156,7 @@ namespace CourseConsoleApp
 
         static async Task AzureOpenAIAsync(string userPrompt)
         {
-            string apiKey = "e92125ae6f3e463ca8ed4058e03220da"; // Set your key here
+            string apiKey = "YOUR_OPENAI_API_KEY"; // Set your key here
             string apiUrl = "https://openaijpeast07.openai.azure.com/openai/deployments/gpt4o/chat/completions?api-version=2024-02-15-preview";
 
             client.DefaultRequestHeaders.Add("api-key", apiKey);
